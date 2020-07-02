@@ -74,3 +74,56 @@
         1. Z-Score  
             1. Methods  
                 i. Subtract one number from the mean then divide by the standard deviation  
+
+### Task List
+| To Do | In Progress | Review | Done |  
+| --- | --- | --- | ---|  
+| Set up Skeleton project | X | 7/2/2020 | 7/2/2020 |  
+| Make modules | --- | --- | ---|  
+| Set up Travis | X | 7/2/2020 | 7/2/2020|  
+| Set up Fileutilities | --- | --- | ---|  
+| Set up Dockerfile | --- | --- | ---|  
+| Set up Requirements.txt | --- | --- | ---|  
+| Make Development Branch | X | 7/2/2020 | 7/2/2020 |  
+| **MAKE CALCULATOR** | --- | --- | ---|  
+| Make addition static class | --- | --- | ---|  
+| Make add method calling static class | --- | --- | ---|  
+| Test add method | --- | --- | ---|  
+| Make subtraction static class | --- | --- | ---|  
+| Make subtract method calling static class | --- | --- | ---|  
+| Test subtract method | --- | --- | ---| 
+| Make multiplication static class | --- | --- | ---|  
+| Make multiply method calling static class | --- | --- | ---|  
+| Test multiply method | --- | --- | ---|  
+| Make division static class | --- | --- | ---|  
+| Make divide method calling static class | --- | --- | ---|  
+| Test divide method | --- | --- | ---|
+| Make squared static class | --- | --- | ---|  
+| Make square method calling static class | --- | --- | ---|  
+| Test square method | --- | --- | ---|    
+| Make squared root static class | --- | --- | ---|  
+| Make square root method calling static class | --- | --- | ---|  
+| Test square root method | --- | --- | ---|   
+| Make test .csv files for statistics | --- | --- | ---|  
+| Test .csv files using statistics library | --- | --- | ---|  
+| **MAKE STATISTICS CALCULATOR** | --- | --- | ---| 
+| Make mean static class | --- | --- | ---|  
+| Make mean method calling static class | --- | --- | ---|  
+| Test mean method | --- | --- | ---|    
+| Make median static class | --- | --- | ---|  
+| Make median method calling static class | --- | --- | ---|  
+| Test median method | --- | --- | ---| 
+| Make mode static class | --- | --- | ---|  
+| Make mode method calling static class | --- | --- | ---|  
+| Test mode method | --- | --- | ---| 
+| Make variance static class | --- | --- | ---|  
+| Make variance method calling static class | --- | --- | ---|  
+| Test variance method | --- | --- | ---| 
+| Make standard deviation static class | --- | --- | ---|  
+| Make standard deviation method calling static class | --- | --- | ---|  
+| Test standard deviation method | --- | --- | ---| 
+| Make z-score static class | --- | --- | ---|  
+| Make z-score method calling static class | --- | --- | ---|  
+| Test z-score method | --- | --- | ---| 
+
+### Changelog
