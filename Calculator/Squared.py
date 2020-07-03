@@ -1,4 +1,4 @@
-#Squared static method
-def squared (a):
-    a = int (a)
+# Squared static method
+def squared(a):
+    a = int(a)
     return a * a

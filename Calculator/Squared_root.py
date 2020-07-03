@@ -1,7 +1,8 @@
-#Squared root static method
+# Squared root static method
 
 import math
 
-def squared_root (a):
-    a = float (a)
+
+def squared_root(a):
+    a = float(a)
     return math.sqrt(a)
