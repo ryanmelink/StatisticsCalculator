@@ -10,5 +10,3 @@ class MyTestCase(unittest.TestCase):
     def test_instantiate_statcalculator(self):
         self.assertIsInstance(self.Statistics, Statistics)
 
-    def test_mean(self):
-        self.assertEqual(Statistics.mean([2,2,2]), 6)

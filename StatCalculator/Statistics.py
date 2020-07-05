@@ -1,5 +1,4 @@
 from Calculator.Calculator import Calculator
-from StatCalculator.Mean import mean
 
 
 class Statistics(Calculator):
@@ -7,7 +6,3 @@ class Statistics(Calculator):
 
     def __init__(self):
         super().__init__()
-
-    def mean(self, list_of_nums):
-        self.result = mean(list_of_nums)
-        return self.result
