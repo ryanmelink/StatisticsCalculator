@@ -7,13 +7,13 @@ def class_factory(class_name, dictionary):
     return type(class_name, (object,), dictionary)
 
 
-class CsvReader:
+class CSVReader:
     data = []
 
     def __init__(self, filepath):
         self.data = []
-        with open(absolute_path(filepath)) as text_data:
-            csv_data = csv.DictReader(text_data, delimiter=',')
+        with open(absolute_path(filepath)) as test_data:
+            csv_data = csv.DictReader(test_data, delimiter=',')
             for row in csv_data:
                 self.data.append(row)
                 pprint(self.data)

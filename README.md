@@ -78,31 +78,31 @@
 ### Task List
 | To Do | In Progress | Review | Done |  
 | --- | --- | --- | ---|  
-| Set up Skeleton project | X | 7/2/2020 | 7/2/2020 |  
-| Make modules | --- | --- | ---|  
-| Set up Travis | X | 7/2/2020 | 7/2/2020|  
-| Set up Fileutilities | --- | --- | ---|  
-| Set up Dockerfile | --- | --- | ---|  
-| Set up Requirements.txt | --- | --- | ---|  
-| Make Development Branch | X | 7/2/2020 | 7/2/2020 |  
+| Set up Skeleton project | Kelly | 7/2/2020 | 7/2/2020 |  
+| Make modules | Kelly | 7/2/2020 | 7/2/2020 |  
+| Set up Travis | Kelly | 7/2/2020 | 7/2/2020|  
+| Set up FileUtilities | Kelly | 7/2/2020 | 7/2/2020 |  
+| Set up Dockerfile | Kelly | 7/2/2020 | 7/2/2020 |  
+| Set up Requirements.txt | Kelly | 7/2/2020 | 7/2/2020 |  
+| Make Development Branch | Kelly | 7/2/2020 | 7/2/2020 |  
 | **MAKE CALCULATOR** | --- | --- | ---|  
-| Make addition static class | --- | --- | ---|  
-| Make add method calling static class | --- | --- | ---|  
+| Make addition static class | Monica | 7/3/2020 | 7/3/2020 |  
+| Make add method calling static class | Monica | 7/5/2020 | 7/5/2020 |  
 | Test add method | --- | --- | ---|  
-| Make subtraction static class | --- | --- | ---|  
-| Make subtract method calling static class | --- | --- | ---|  
+| Make subtraction static class | Monica | 7/3/2020 | 7/3/2020 |
+| Make subtract method calling static class | Monica | 7/5/2020 | 7/5/2020 |
 | Test subtract method | --- | --- | ---| 
-| Make multiplication static class | --- | --- | ---|  
-| Make multiply method calling static class | --- | --- | ---|  
+| Make multiplication static class | Monica | 7/3/2020 | 7/3/2020 |
+| Make multiply method calling static class | Monica | 7/5/2020 | 7/5/2020 |
 | Test multiply method | --- | --- | ---|  
-| Make division static class | --- | --- | ---|  
-| Make divide method calling static class | --- | --- | ---|  
+| Make division static class | Monica | 7/3/2020 | 7/3/2020 | 
+| Make divide method calling static class | Monica | 7/5/2020 | 7/5/2020 |  
 | Test divide method | --- | --- | ---|
-| Make squared static class | --- | --- | ---|  
-| Make square method calling static class | --- | --- | ---|  
+| Make squared static class | Monica | 7/3/2020 | 7/3/2020 |  
+| Make square method calling static class | Monica | 7/5/2020 | 7/5/2020 | 
 | Test square method | --- | --- | ---|    
-| Make squared root static class | --- | --- | ---|  
-| Make square root method calling static class | --- | --- | ---|  
+| Make squared root static class | Monica | 7/3/2020 | 7/3/2020 |
+| Make square root method calling static class | Monica | 7/5/2020 | 7/5/2020 | 
 | Test square root method | --- | --- | ---|   
 | Make test .csv files for statistics | --- | --- | ---|  
 | Test .csv files using statistics library | --- | --- | ---|  
