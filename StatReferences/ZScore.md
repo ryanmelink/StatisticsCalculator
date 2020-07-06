@@ -13,7 +13,7 @@ population standard deviation = σ
 
 ### Example Equation
 
-You score 1100 on your SAT.  The **mean** score for the SAT is 1026, and the **standard** deviation is 209.
+You score 1100 on your SAT.  The **mean** score for the SAT is 1026, and the **standard deviation** is 209.
 
 How well did you score on the test compared to the average test taker?
 
@@ -34,3 +34,4 @@ Calculate the answer to determine how many **standard deviations** your score wa
   
 Your score was **0.354 standard deviations above the mean**.
 
+[Link to Statisticshowto.com](https://www.statisticshowto.com/probability-and-statistics/z-score/)
