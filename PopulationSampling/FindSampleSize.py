@@ -1,8 +1,5 @@
 #How to Find a Sample Size Given a Confidence Interval and Width (unknown population standard deviation)
 
-from Calculator.Squared_root import squared_root
-from StatCalculator.Mean import mean
-
 def find_sample_size(num):
     try:
         num_values = len(num)
