@@ -88,7 +88,7 @@
 | **MAKE CALCULATOR** | --- | --- | ---|  
 | Make addition static class | Monica | 7/3/2020 | 7/3/2020 |  
 | Make add method calling static class | Monica | 7/5/2020 | 7/5/2020 |  
-| Test add method |  Monica | 7/5/2020 | 7/5/2020 |  
+| Test add method | Monica | 7/5/2020 | 7/5/2020 |  
 | Make subtraction static class | Monica | 7/3/2020 | 7/3/2020 |
 | Make subtract method calling static class | Monica | 7/5/2020 | 7/5/2020 |
 | Test subtract method |  Monica | 7/5/2020 | 7/5/2020 |

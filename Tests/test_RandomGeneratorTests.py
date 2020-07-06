@@ -6,19 +6,22 @@ from RandomGenerator.GenList_WithSeed import GenListWithSeed
 
 class MyTestCase(unittest.TestCase):
     def setUp(self):
-        self.testData = rand_num(1, 1000, 250, 55)
+        self.testData = rand_num(1, 20, 5, 30)
 
     #Generated List with seed (integers)
     def test_gen_list_with_seed_int(self):
-        result = GenListWithSeed.list_int(1, 1000, 20, 55)
-        result2 = GenListWithSeed.list_int(1, 1000, 20, 55)
+        result = GenListWithSeed.list_int(1, 20, 5, 30)
+        result2 = GenListWithSeed.list_int(1, 20, 5, 30)
         self.assertEqual(result, result2)
-        #pprint(result)
+        pprint(result)
+        #pprint(result2)
+
+
 
     #Generated List with seed (decimals)
     def test_gen_list_with_seed_float(self):
-        result = GenListWithSeed.list_float(1, 1000, 20, 55)
-        result2 = GenListWithSeed.list_float(1, 1000, 20, 55)
+        result = GenListWithSeed.list_float(1, 20, 5, 30)
+        result2 = GenListWithSeed.list_float(1, 20, 5, 30)
         self.assertEqual(result, result2)
         #pprint(result)
 
