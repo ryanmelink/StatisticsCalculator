@@ -2,6 +2,8 @@ from Calculator.Calculator import Calculator
 from PopulationSampling.CochransFormula import cochran
 from PopulationSampling.FindSampleSize import find_sample_size
 from PopulationSampling.RandomSampling import random_sampling
+from PopulationSampling.ConfidenceInterval import confidence_interval
+
 
 class PopSampling(Calculator):
     data = []
@@ -23,6 +25,10 @@ class PopSampling(Calculator):
 
     def random_sampling(self, x, y):
         self.result = random_sampling(x, y)
+        return self.result
+
+    def confidence_interval(self, data):
+        self.result = confidence_interval(data)
         return self.result
 
     pass

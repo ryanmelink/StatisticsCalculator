@@ -6,7 +6,7 @@ from CSVReader.CSVReader import CSVReader
 class MyTestCase(unittest.TestCase):
     test_CochranFormula = CSVReader('Tests/Data_PopSample/CochranFormula_Test.csv').data
     test_FindSampleSize = CSVReader('')
-    test_ConfidenceInterval = CSVReader('')
+    test_ConfidenceInterval = CSVReader('Tests/Data_PopSample/ConfidenceInterval_Test.csv').data
     test_MarginOfError = CSVReader('')
     test_RandomSampling = CSVReader('Tests/Data_PopSample/RandomSampling_Test.csv').data
 
@@ -21,8 +21,15 @@ class MyTestCase(unittest.TestCase):
             self.assertEqual(self.PopSampling.cochran(float((row['p'])), float(row['q']), float(row['z']), float(row['e'])),float(row['a']))
             self.assertEqual(self.PopSampling.result, float(row['a']))
 
-    #def test_confidence_interval(self):
-        #for row in self.test_ConfidenceInterval:
+    def test_confidence_interval(self):
+        for row in self.test_ConfidenceInterval:
+            list = []
+            for keys in row.keys():
+                if keys == "ci":
+                    continue
+                list.append(int(row[keys]))
+            self.assertEqual(self.PopSampling.confidence_interval(list), str(row['ci']))
+
 
     #def test_find_sample_size(self):
         #for row in self.test_FindSampleSize:
