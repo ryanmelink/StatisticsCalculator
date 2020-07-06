@@ -3,7 +3,7 @@
 from random import randint
 from random import uniform
 
-class GenNum_NoSeed:
+class GenNumNoSeed:
 
     @staticmethod
     def random_int(a, b):

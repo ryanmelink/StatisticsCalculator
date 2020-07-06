@@ -2,6 +2,7 @@ import unittest
 from pprint import pprint
 from RandomGenerator.Random import rand_num
 from RandomGenerator.GenList_WithSeed import GenListWithSeed
+from RandomGenerator.GenNum_NoSeed import GenNumNoSeed
 
 
 class MyTestCase(unittest.TestCase):
@@ -13,10 +14,8 @@ class MyTestCase(unittest.TestCase):
         result = GenListWithSeed.list_int(1, 20, 5, 30)
         result2 = GenListWithSeed.list_int(1, 20, 5, 30)
         self.assertEqual(result, result2)
-        pprint(result)
+        #pprint(result)
         #pprint(result2)
-
-
 
     #Generated List with seed (decimals)
     def test_gen_list_with_seed_float(self):
@@ -24,6 +23,21 @@ class MyTestCase(unittest.TestCase):
         result2 = GenListWithSeed.list_float(1, 20, 5, 30)
         self.assertEqual(result, result2)
         #pprint(result)
+        #pprint(result2)
+
+
+
+    #Generated Number with no seed (integer)
+    def test_gen_num_no_seed_int(self):
+        result = GenNumNoSeed.random_int(1, 50)
+        self.assertEqual(isinstance(result, int), True)
+        #pprint (result)
+
+    #Generated Number with no seed (integer)
+    def test_gen_num_no_seed_float(self):
+        result = GenNumNoSeed.random_float(1, 50)
+        self.assertEqual(isinstance(result, float), True)
+        #pprint (result)
 
 
 if __name__ == '__main__':
