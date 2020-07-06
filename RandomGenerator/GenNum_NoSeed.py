@@ -8,7 +8,7 @@ class GenNumNoSeed:
     @staticmethod
     def random_int(a, b):
         if isinstance(a, float):
-            return GenNum_NoSeed.random_float
+            return GenNumNoSeed.random_float
         return randint(a, b)
 
     @staticmethod
