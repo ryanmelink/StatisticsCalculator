@@ -9,4 +9,3 @@ class MyTestCase(unittest.TestCase):
 
     def test_instantiate_statcalculator(self):
         self.assertIsInstance(self.Statistics, Statistics)
-
