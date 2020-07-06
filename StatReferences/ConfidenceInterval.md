@@ -75,5 +75,6 @@ The Confidence Interval is **168.8cm** to **181.2cm**
    
  * Stat Calculator
    * Mean
+   * Standard Deviation
  
  
