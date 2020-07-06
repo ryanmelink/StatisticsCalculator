@@ -8,9 +8,9 @@ The *desired level of precision* is also known as the "Margin of Error".
 
 https://www.statisticshowto.com/wp-content/uploads/2018/01/cochran-1.jpeg
 
-e = Margin of Error (the desired level of precision)
-p = the estimated proportion of the population which has the attribute
-q = 1 - p
+ * e = Margin of Error (the desired level of precision)
+ * p = the estimated proportion of the population which has the attribute
+ * q = 1 - p
 
 *The z-value is found in a Z Table*
 
@@ -24,8 +24,8 @@ We will assume that half of the families serve breakfast, which gives us the "ma
     q = 1 - 0.5
     
 We want to have 95% confidence, and at least +/- 5% (0.05) precision.
- * 95% Confidence Level gives a Z-Value of **1.96**
- 
+
+*95% Confidence Level gives a Z-Value of **1.96**.*
  
     = ((Z-Value)^2 * (p) * (q)) / (e)^2
     = ((1.96)^2) * (0.5) * (1 - 0.5)) / (0.05)^2
@@ -36,12 +36,13 @@ We want to have 95% confidence, and at least +/- 5% (0.05) precision.
 A random sample of **384** households in your target population should be enough to give you the confidence levels needed.
 
 
-### Calculator Functions Used in Cochran's Formula
+### Functions Used in Cochran's Formula
 
- * Subtraction
- * Multiplication
- * Division
- * Square
+ * Calculator
+   * Subtraction
+   * Multiplication
+   * Division
+   * Square
  
 
 

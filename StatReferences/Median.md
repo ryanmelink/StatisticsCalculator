@@ -17,11 +17,10 @@ Finding the Median does not require a formula, unless you have an even set of nu
 Median = (28+29)/2
 Median = 28.5
 
-### Calculator Functions Used in Median
+### Functions Used in Median
 *Needed only when trying to find the median of an even group of number*
  
- * Mean
-   * Addition
-   * Division
+ * Stat Calculator
+   * Mean
 
 [Link to Statisticshowto.com](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/mean-median-mode/)

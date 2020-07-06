@@ -27,10 +27,11 @@ Calculate the mean age of the group of students.
     
 **23 years** is the average age of the group.
 
-### Calculator Functions Used in Mean Equation
+### Functions Used in Mean Equation
 
- * Addition
- * Division
+ * Calculator
+   * Addition
+   * Division
 
 
 [Link to Statisticshowto.com](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/mean-median-mode/)

@@ -62,10 +62,11 @@ Take the original data points and **square** them individually.
     Variance = 31,099.5 / 5
     Variance = 6,219.9
     
-### Calculator Functions Used in Variance Equation
+### Functions Used in Variance Equation
 
- * Addition
- * Subtraction
- * Divide
- * Square
+ * Calculator
+   * Addition
+   * Subtraction
+   * Division
+   * Square
 
