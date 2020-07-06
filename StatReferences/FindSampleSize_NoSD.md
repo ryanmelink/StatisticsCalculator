@@ -1,6 +1,8 @@
 ### Find a Sample Size (without Standard Deviation)
 To do this, you will need to calculate certain variables which will allow you to ultimately determine your sample size.
 
+Sample Size = (^p * ^q) * (Za2 / E)^2 
+
 ### Example
 **41%** of Jacksonville residents said they have been in a hurricane.  How many adults should be surveyed to estimate the true proportion of adults who have been in a hurricane?
  * Confidence Interval = 95%
