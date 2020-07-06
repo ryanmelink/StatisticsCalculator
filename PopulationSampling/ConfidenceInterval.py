@@ -4,3 +4,5 @@
 # from Calculator.Division import division
 # from Statistics.Mean import mean
 # from Statistics.StandardDeviation import stddev
+
+#X  ±  Z (s/√n)

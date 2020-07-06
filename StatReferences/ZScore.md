@@ -6,7 +6,7 @@ It is a measure of how many **standard deviations** below or above the populatio
 
 ### The Z-Score Formula
 
-    z = (x – μ) / μ
+    z = (x – μ) / σ
     
     μ = population mean
     σ = populations standard deviation
