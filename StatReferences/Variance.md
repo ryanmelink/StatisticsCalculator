@@ -3,8 +3,8 @@ A **Variance** helps you determine how spread out your data is.  The *Sample Var
 
 A *sample* is a select number of items taken from a population.  A sample is used in cases where it would not be feasible to take the numbers of an entire population.
 
-    For example:
-    You wish to measure American people's weights.  To do this, we will take a sample of 1,000 people, rather than try to obtain the weight from every single American.
+For example:
+You wish to measure American people's weights.  To do this, we will take a sample of 1,000 people, rather than try to obtain the weight from every single American.
 
 The **Variance** is mathematically defined as the **average of the squared difference from the mean**.  The steps to calculate this are listed below.
 
