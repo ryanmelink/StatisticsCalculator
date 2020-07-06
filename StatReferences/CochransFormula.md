@@ -24,8 +24,8 @@ We will assume that half of the families serve breakfast, which gives us the "ma
     q = 1 - 0.5
     
 We want to have 95% confidence, and at least +/- 5% (0.05) precision.
- * 95% Confidence Level gives a Z-Value of **1.96**
- 
+
+*95% Confidence Level gives a Z-Value of **1.96**.*
  
     = ((Z-Value)^2 * (p) * (q)) / (e)^2
     = ((1.96)^2) * (0.5) * (1 - 0.5)) / (0.05)^2
