@@ -13,3 +13,4 @@ Find the **mode** in the below group of numbers.
    2, 19, **44**, **44**, **44**, 51, 56, 78, 86, 99, 99
 
 Mode = 44
+
