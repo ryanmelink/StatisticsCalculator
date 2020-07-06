@@ -37,8 +37,8 @@ Your score was **0.354 standard deviations above the mean**.
 ### Calculator Functions Used in Z-Score Equation
 
  * Mean
-  * Addition
-  * Division
+   * Addition
+   * Division
  * Standard Deviation 
 
 

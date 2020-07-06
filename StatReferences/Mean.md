@@ -1,6 +1,6 @@
 ### What is a Mean?
 
-The **mean** is the average of a data set
+The **mean** is the average of a data set.
 
 ### The Mean Formula
 
