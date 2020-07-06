@@ -69,6 +69,7 @@ The **Standard Deviation** of the number of flowers on each rose bush is **2.983
 
 ### Calculator Functions Used in Standard Deviation Equation
 
+ * Subtraction
  * Mean
    * Addition
    * Division
