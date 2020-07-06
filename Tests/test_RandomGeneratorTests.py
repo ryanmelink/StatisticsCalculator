@@ -4,6 +4,7 @@ from RandomGenerator.Random import rand_num
 from RandomGenerator.GenList_WithSeed import GenListWithSeed
 from RandomGenerator.GenNum_NoSeed import GenNumNoSeed
 from RandomGenerator.GenNum_WithSeed import GenNumWithSeed
+from RandomGenerator.ListItems_NoSeed import ListItemNoSeed
 
 
 class MyTestCase(unittest.TestCase):
@@ -53,6 +54,15 @@ class MyTestCase(unittest.TestCase):
         result = GenNumWithSeed.random_float(1, 50, 30)
         self.assertEqual(isinstance(result, float), True)
         #pprint (result)
+
+
+
+    #Pick N number of items from a list without a seed
+    def test_list_item_no_seed(self):
+        the_list = GenListWithSeed.list_int(1, 20, 5, 30)
+        result = ListItemNoSeed.list_items(the_list)
+        self.assertEqual(result, 10)
+
 
 
 

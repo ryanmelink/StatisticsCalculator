@@ -4,7 +4,7 @@ from random import randint
 
 class ListItemNoSeed:
     @staticmethod
-    def list(series):
-        length = len(series)
+    def list_items(the_list):
+        length = len(the_list)
         position = randint(0, length-1)
-        return series[position]
+        return the_list[position]
