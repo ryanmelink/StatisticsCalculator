@@ -88,25 +88,26 @@
 | **MAKE CALCULATOR** | --- | --- | ---|  
 | Make addition static class | Monica | 7/3/2020 | 7/3/2020 |  
 | Make add method calling static class | Monica | 7/5/2020 | 7/5/2020 |  
-| Test add method | --- | --- | ---|  
+| Test add method |  Monica | 7/5/2020 | 7/5/2020 |  
 | Make subtraction static class | Monica | 7/3/2020 | 7/3/2020 |
 | Make subtract method calling static class | Monica | 7/5/2020 | 7/5/2020 |
-| Test subtract method | --- | --- | ---| 
+| Test subtract method |  Monica | 7/5/2020 | 7/5/2020 |
 | Make multiplication static class | Monica | 7/3/2020 | 7/3/2020 |
 | Make multiply method calling static class | Monica | 7/5/2020 | 7/5/2020 |
-| Test multiply method | --- | --- | ---|  
+| Test multiply method |  Monica | 7/5/2020 | 7/5/2020 | 
 | Make division static class | Monica | 7/3/2020 | 7/3/2020 | 
 | Make divide method calling static class | Monica | 7/5/2020 | 7/5/2020 |  
-| Test divide method | --- | --- | ---|
+| Test divide method |  Monica | 7/5/2020 | 7/5/2020 |
 | Make squared static class | Monica | 7/3/2020 | 7/3/2020 |  
 | Make square method calling static class | Monica | 7/5/2020 | 7/5/2020 | 
-| Test square method | --- | --- | ---|    
+| Test square method |  Monica | 7/5/2020 | 7/5/2020 |  
 | Make squared root static class | Monica | 7/3/2020 | 7/3/2020 |
 | Make square root method calling static class | Monica | 7/5/2020 | 7/5/2020 | 
-| Test square root method | --- | --- | ---|   
+| Test square root method |  Monica | 7/5/2020 | 7/5/2020 | 
+| **MAKE STATISTICS MODULE** | --- | --- | ---| 
+| Make Modules | Kelly | 7/2/2020 | 7/2/2020| 
 | Make test .csv files for statistics | --- | --- | ---|  
-| Test .csv files using statistics library | --- | --- | ---|  
-| **MAKE STATISTICS CALCULATOR** | --- | --- | ---| 
+| Test .csv files using statistics library | --- | --- | ---|
 | Make mean static class | --- | --- | ---|  
 | Make mean method calling static class | --- | --- | ---|  
 | Test mean method | --- | --- | ---|    
@@ -125,5 +126,45 @@
 | Make z-score static class | --- | --- | ---|  
 | Make z-score method calling static class | --- | --- | ---|  
 | Test z-score method | --- | --- | ---| 
+**MAKE POPULATION SAMPLING MODULE** | --- | --- | ---| 
+| Make Modules | Kelly | 7/5/2020 | 7/5/2020| 
+| Make cochran's formula static class | --- | --- | ---|  
+| Make cochran's formula method calling static class | --- | --- | ---|  
+| Test cochran's formula method | --- | --- | ---|    
+| Make confidence interval static class | --- | --- | ---|  
+| Make confidence interval method calling static class | --- | --- | ---|  
+| Test confidence interval method | --- | --- | ---| 
+| Make sample size static class | --- | --- | ---|  
+| Make sample size method calling static class | --- | --- | ---|  
+| Test sample size method | --- | --- | ---| 
+| Make margin of error static class | --- | --- | ---|  
+| Make margin of error method calling static class | --- | --- | ---|  
+| Test margin of error method | --- | --- | ---| 
+| Make random sampling static class | --- | --- | ---|  
+| Make random sampling method calling static class | --- | --- | ---|  
+| Test random sampling method | --- | --- | ---| 
+**MAKE RANDOM GENERATOR MODULE** | --- | --- | ---| 
+| Make Modules | Kelly | 7/5/2020 | 7/5/2020| 
+| Make GenList with Seed static class | --- | --- | ---|  
+| Make GenList with Seed method calling static class | --- | --- | ---|  
+| Test GenList with Seed method | --- | --- | ---|    
+| Make GenNum no Seed static class | --- | --- | ---|  
+| Make GenNum no Seed method calling static class | --- | --- | ---|  
+| Test GenNum no Seed method | --- | --- | ---| 
+| Make GenNum with Seed static class | --- | --- | ---|  
+| Make GenNum with Seed method calling static class | --- | --- | ---|  
+| Test GenNum with Seed method | --- | --- | ---| 
+| Make ListItems no Seed static class | --- | --- | ---|  
+| Make ListItems no Seed method calling static class | --- | --- | ---|  
+| Test ListItems no Seed method | --- | --- | ---| 
+| Make ListItems with Seed static class | --- | --- | ---|  
+| Make ListItems with Seed method calling static class | --- | --- | ---|  
+| Test ListItems with Seed method | --- | --- | ---| 
+| Make Select Random Item static class | --- | --- | ---|  
+| Make Select Random Item method calling static class | --- | --- | ---|  
+| Test Select Random Item method | --- | --- | ---| 
+| Make Set Seed Random Select static class | --- | --- | ---|  
+| Make Set Seed Random Select method calling static class | --- | --- | ---|  
+| Test Set Seed Random Select method | --- | --- | ---| 
 
 ### Changelog
