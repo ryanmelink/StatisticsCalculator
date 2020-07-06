@@ -7,7 +7,7 @@ class MyTestCase(unittest.TestCase):
     test_CochranFormula = CSVReader('Tests/Data_PopSample/CochranFormula_Test.csv').data
     test_FindSampleSize = CSVReader('')
     test_ConfidenceInterval = CSVReader('Tests/Data_PopSample/ConfidenceInterval_Test.csv').data
-    test_MarginOfError = CSVReader('')
+    test_MarginOfError = CSVReader('Tests/Data_PopSample/MarginOfError_Test.csv').data
     test_RandomSampling = CSVReader('Tests/Data_PopSample/RandomSampling_Test.csv').data
 
     def setUp(self):
@@ -34,16 +34,16 @@ class MyTestCase(unittest.TestCase):
     #def test_find_sample_size(self):
         #for row in self.test_FindSampleSize:
 
-    #def test_margin_of_error(self):
-        #for row in self.test_MarginOfError:
+    def test_margin_of_error(self):
+        for row in self.test_MarginOfError:
+            self.PopSampling.margin_of_error(int(row['n']), int(row['x']), int(row['s']))
+            self.assertEqual(self.PopSampling.result, float(row['MargErr']))
 
     def test_random_sampling(self):
         for row in self.test_RandomSampling:
             series = [row['Value1'], row['Value2'], row['Value3'], row['Value4'], row['Value5']]
             value = self.PopSampling.random_sampling(series, int(row['Choose']))
             self.assertEqual(len(value), int(row['Choose']))
-
-
 
 
 

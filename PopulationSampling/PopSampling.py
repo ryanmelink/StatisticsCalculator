@@ -3,7 +3,7 @@ from PopulationSampling.CochransFormula import cochran
 from PopulationSampling.FindSampleSize import find_sample_size
 from PopulationSampling.RandomSampling import random_sampling
 from PopulationSampling.ConfidenceInterval import confidence_interval
-
+from PopulationSampling.MarginOfError import margin_of_error
 
 class PopSampling(Calculator):
     data = []
@@ -29,6 +29,10 @@ class PopSampling(Calculator):
 
     def confidence_interval(self, data):
         self.result = confidence_interval(data)
+        return self.result
+
+    def margin_of_error(self, data1, data2, data3):
+        self.result = margin_of_error(data1, data2, data3)
         return self.result
 
     pass
