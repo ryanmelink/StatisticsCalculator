@@ -7,6 +7,7 @@ from RandomGenerator.GenNum_WithSeed import GenNumWithSeed
 from RandomGenerator.ListItems_NoSeed import ListItemNoSeed
 from RandomGenerator.ListItems_WithSeed import ListItemWithSeed
 from RandomGenerator.Select_RandomItem import SelectRandomItem
+from RandomGenerator.SetSeed_RandomSelect import SetSeedRandomSelect
 
 
 class MyTestCase(unittest.TestCase):
@@ -82,7 +83,13 @@ class MyTestCase(unittest.TestCase):
         thelist = GenListWithSeed.list_int(1, 20, 5, 6)
         result = SelectRandomItem.select_random_item(thelist)
         self.assertEqual(result, 19)
-        pprint(result)
+        #pprint(result)
+
+
+    def test_pick_from_list_seed(self):
+        series = GenListWithSeed.list_int(1, 20, 5, 55)
+        result = SetSeedRandomSelect.pick_from_list_seed(series, 3, 55)
+        self.assertEqual(result, 3)
 
 if __name__ == '__main__':
     unittest.main()
