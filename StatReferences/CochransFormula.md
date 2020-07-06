@@ -8,9 +8,9 @@ The *desired level of precision* is also known as the "Margin of Error".
 
 https://www.statisticshowto.com/wp-content/uploads/2018/01/cochran-1.jpeg
 
-e = Margin of Error (the desired level of precision)
-p = the estimated proportion of the population which has the attribute
-q = 1 - p
+ * e = Margin of Error (the desired level of precision)
+ * p = the estimated proportion of the population which has the attribute
+ * q = 1 - p
 
 *The z-value is found in a Z Table*
 
