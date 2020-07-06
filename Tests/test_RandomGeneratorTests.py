@@ -5,6 +5,7 @@ from RandomGenerator.GenList_WithSeed import GenListWithSeed
 from RandomGenerator.GenNum_NoSeed import GenNumNoSeed
 from RandomGenerator.GenNum_WithSeed import GenNumWithSeed
 from RandomGenerator.ListItems_NoSeed import ListItemNoSeed
+from RandomGenerator.ListItems_WithSeed import ListItemWithSeed
 
 
 class MyTestCase(unittest.TestCase):
@@ -61,6 +62,14 @@ class MyTestCase(unittest.TestCase):
     def test_list_item_no_seed(self):
         the_list = GenListWithSeed.list_int(1, 20, 5, 30)
         result = ListItemNoSeed.list_items(the_list)
+        self.assertEqual(result, 10)
+
+
+
+    #Pick N number of items from a list with a seed
+    def test_list_item_with_seed(self):
+        the_list = GenListWithSeed.list_int(1, 20, 5, 30)
+        result = ListItemWithSeed.list_items(the_list, 15)
         self.assertEqual(result, 10)
 
 
