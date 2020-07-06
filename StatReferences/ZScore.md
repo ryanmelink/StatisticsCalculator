@@ -7,9 +7,9 @@ It is a measure of how many **standard deviations** below or above the populatio
 ### The Z-Score Formula
 
     z = (x – μ) / μ
-
-population mean = μ
-population standard deviation = σ
+    
+    μ = population mean
+    σ = populations standard deviation
 
 ### Example Equation
 
@@ -34,12 +34,14 @@ Calculate the answer to determine how many **standard deviations** your score wa
   
 Your score was **0.354 standard deviations above the mean**.
 
-### Calculator Functions Used in Z-Score Equation
+### Functions Used in Z-Score Equation
 
- * Mean
-   * Addition
+ * Calculator
    * Division
- * Standard Deviation 
+   
+ * Stat Calculator
+   * Mean
+   * Standard Deviation 
 
 
 [Link to Statisticshowto.com](https://www.statisticshowto.com/probability-and-statistics/z-score/)

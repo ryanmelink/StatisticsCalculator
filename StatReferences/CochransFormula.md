@@ -36,12 +36,13 @@ We want to have 95% confidence, and at least +/- 5% (0.05) precision.
 A random sample of **384** households in your target population should be enough to give you the confidence levels needed.
 
 
-### Calculator Functions Used in Cochran's Formula
+### Functions Used in Cochran's Formula
 
- * Subtraction
- * Multiplication
- * Division
- * Square
+ * Calculator
+   * Subtraction
+   * Multiplication
+   * Division
+   * Square
  
 
 
