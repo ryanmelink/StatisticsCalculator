@@ -3,6 +3,7 @@ from pprint import pprint
 from RandomGenerator.Random import rand_num
 from RandomGenerator.GenList_WithSeed import GenListWithSeed
 from RandomGenerator.GenNum_NoSeed import GenNumNoSeed
+from RandomGenerator.GenNum_WithSeed import GenNumWithSeed
 
 
 class MyTestCase(unittest.TestCase):
@@ -33,11 +34,26 @@ class MyTestCase(unittest.TestCase):
         self.assertEqual(isinstance(result, int), True)
         #pprint (result)
 
-    #Generated Number with no seed (integer)
+    #Generated Number with no seed (decimal)
     def test_gen_num_no_seed_float(self):
         result = GenNumNoSeed.random_float(1, 50)
         self.assertEqual(isinstance(result, float), True)
         #pprint (result)
+
+
+
+    #Generated Number with seed (integer)
+    def test_gen_num_seed_int(self):
+        result = GenNumWithSeed.random_int(1, 50, 30)
+        self.assertEqual(isinstance(result, int), True)
+        #pprint (result)
+
+    #Generated Number with seed (integer)
+    def test_gen_num_seed_float(self):
+        result = GenNumWithSeed.random_float(1, 50, 30)
+        self.assertEqual(isinstance(result, float), True)
+        #pprint (result)
+
 
 
 if __name__ == '__main__':
