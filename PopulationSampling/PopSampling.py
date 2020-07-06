@@ -1,6 +1,7 @@
 from Calculator.Calculator import Calculator
 from PopulationSampling.CochransFormula import cochran
 
+
 class PopSampling(Calculator):
     data = []
     data1 = []

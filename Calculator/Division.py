@@ -1,5 +1,5 @@
 # Division static method
-def division(a: object, b: object) -> object:
+def division(a, b):
     a = float(a)
     b = float(b)
     return b / a
