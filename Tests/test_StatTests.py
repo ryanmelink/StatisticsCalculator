@@ -14,10 +14,19 @@ class MyTestCase(unittest.TestCase):
     def test_instantiate_statistics_calculator(self):
         self.assertIsInstance(self.Statistics, Statistics)
 
-    #Testing mode
+    #Testing mean
     def test_mean(self):
         test_data = CSVReader('/Tests/Data_Statistics/Mean_Data.csv').data
         for row in test_data:
             self.assertEqual(self.Statistics.mean(row['Value1'], row['Value2'], row['Value3'], row['Value4'], row['Value5']), float(row['Mean']))
             self.assertEqual(self.Statistics.result, float(row['Mean']))
+        test_data.clear()
+
+    #Testing median
+    def test_median(self):
+        test_data = CSVReader('/Tests/Data_Statistics/Median_Data.csv').data
+        pprint(test_data)
+        for row in test_data:
+            self.assertEqual(self.Statistics.median(row['Value1'], row['Value2'], row['Value3'], row['Value4'], row['Value5']), float(row['Median']))
+            self.assertEqual(self.Statistics.result, float(row['Median']))
         test_data.clear()

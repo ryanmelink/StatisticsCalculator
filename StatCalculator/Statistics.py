@@ -16,8 +16,8 @@ class Statistics(Calculator):
         self.result = mean(a, b, c, d, e)
         return self.result
 
-    def median(self, data):
-        self.result = median(data)
+    def median(self, a, b, c, d, e):
+        self.result = median(a, b, c, d, e)
         return self.result
 
     def mode(self, data):
