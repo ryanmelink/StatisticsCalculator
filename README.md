@@ -88,7 +88,7 @@
 | **MAKE CALCULATOR** | --- | --- | ---|  
 | Make addition static class | Monica | 7/3/2020 | 7/3/2020 |  
 | Make add method calling static class | Monica | 7/5/2020 | 7/5/2020 |  
-| Test add method |  Monica | 7/5/2020 | 7/5/2020 |  
+| Test add method | Monica | 7/5/2020 | 7/5/2020 |  
 | Make subtraction static class | Monica | 7/3/2020 | 7/3/2020 |
 | Make subtract method calling static class | Monica | 7/5/2020 | 7/5/2020 |
 | Test subtract method |  Monica | 7/5/2020 | 7/5/2020 |
@@ -106,8 +106,8 @@
 | Test square root method |  Monica | 7/5/2020 | 7/5/2020 | 
 | **MAKE STATISTICS MODULE** | --- | --- | ---| 
 | Make Modules | Kelly | 7/2/2020 | 7/2/2020| 
-| Make test .csv files for statistics | --- | --- | ---|  
-| Test .csv files using statistics library | --- | --- | ---|
+| Make test .csv files for statistics | Monica | 7/6/2020 | 7/6/2020 |  
+| Test .csv files using statistics library | Monica | 7/6/2020 | 7/6/2020 |
 | Make mean static class | --- | --- | ---|  
 | Make mean method calling static class | --- | --- | ---|  
 | Test mean method | --- | --- | ---|    
@@ -145,26 +145,26 @@
 | Test random sampling method | --- | --- | ---| 
 **MAKE RANDOM GENERATOR MODULE** | --- | --- | ---| 
 | Make Modules | Kelly | 7/5/2020 | 7/5/2020| 
-| Make GenList with Seed static class | --- | --- | ---|  
-| Make GenList with Seed method calling static class | --- | --- | ---|  
-| Test GenList with Seed method | --- | --- | ---|    
-| Make GenNum no Seed static class | --- | --- | ---|  
-| Make GenNum no Seed method calling static class | --- | --- | ---|  
-| Test GenNum no Seed method | --- | --- | ---| 
-| Make GenNum with Seed static class | --- | --- | ---|  
-| Make GenNum with Seed method calling static class | --- | --- | ---|  
-| Test GenNum with Seed method | --- | --- | ---| 
-| Make ListItems no Seed static class | --- | --- | ---|  
-| Make ListItems no Seed method calling static class | --- | --- | ---|  
-| Test ListItems no Seed method | --- | --- | ---| 
-| Make ListItems with Seed static class | --- | --- | ---|  
-| Make ListItems with Seed method calling static class | --- | --- | ---|  
-| Test ListItems with Seed method | --- | --- | ---| 
-| Make Select Random Item static class | --- | --- | ---|  
-| Make Select Random Item method calling static class | --- | --- | ---|  
-| Test Select Random Item method | --- | --- | ---| 
-| Make Set Seed Random Select static class | --- | --- | ---|  
-| Make Set Seed Random Select method calling static class | --- | --- | ---|  
-| Test Set Seed Random Select method | --- | --- | ---| 
+| Make GenList with Seed static class | Monica | 7/6/2020 | 7/6/2020 |  
+| Make GenList with Seed method calling static class | Monica | 7/6/2020 | 7/6/2020 |   
+| Test GenList with Seed method | Monica | 7/6/2020 | 7/6/2020 | 
+| Make GenNum no Seed static class | Monica | 7/6/2020 | 7/6/2020 | 
+| Make GenNum no Seed method calling static class | Monica | 7/6/2020 | 7/6/2020 | 
+| Test GenNum no Seed method | Monica | 7/6/2020 | 7/6/2020 | 
+| Make GenNum with Seed static class | Monica | 7/6/2020 | 7/6/2020 |   
+| Make GenNum with Seed method calling static class | Monica | 7/6/2020 | 7/6/2020 |  
+| Test GenNum with Seed method | Monica | 7/6/2020 | 7/6/2020 | 
+| Make ListItems no Seed static class | Monica | 7/6/2020 | 7/6/2020 | 
+| Make ListItems no Seed method calling static class | Monica | 7/6/2020 | 7/6/2020 |   
+| Test ListItems no Seed method | Monica | 7/6/2020 | 7/6/2020 | 
+| Make ListItems with Seed static class | Monica | 7/6/2020 | 7/6/2020 |   
+| Make ListItems with Seed method calling static class | Monica | 7/6/2020 | 7/6/2020 |  
+| Test ListItems with Seed method | Monica | 7/6/2020 | 7/6/2020 | 
+| Make Select Random Item static class | Monica | 7/6/2020 | 7/6/2020 | 
+| Make Select Random Item method calling static class | Monica | 7/6/2020 | 7/6/2020 |  
+| Test Select Random Item method | Monica | 7/6/2020 | 7/6/2020 | 
+| Make Set Seed Random Select static class | Monica | 7/6/2020 | 7/6/2020 |   
+| Make Set Seed Random Select method calling static class | Monica | 7/6/2020 | 7/6/2020 |   
+| Test Set Seed Random Select method | Monica | 7/6/2020 | 7/6/2020 | 
 
 ### Changelog
