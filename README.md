@@ -106,8 +106,8 @@
 | Test square root method |  Monica | 7/5/2020 | 7/5/2020 | 
 | **MAKE STATISTICS MODULE** | --- | --- | ---| 
 | Make Modules | Kelly | 7/2/2020 | 7/2/2020| 
-| Make test .csv files for statistics | --- | --- | ---|  
-| Test .csv files using statistics library | --- | --- | ---|
+| Make test .csv files for statistics | Monica | 7/6/2020 | 7/6/2020 |  
+| Test .csv files using statistics library | Monica | 7/6/2020 | 7/6/2020 |
 | Make mean static class | --- | --- | ---|  
 | Make mean method calling static class | --- | --- | ---|  
 | Test mean method | --- | --- | ---|    
