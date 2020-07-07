@@ -57,3 +57,12 @@ class MyTestCase(unittest.TestCase):
             self.assertEqual(self.Statistics.standard_deviation(row['Value1'], row['Value2'], row['Value3'], row['Value4'], row['Value5']), round(float(row['StDev']), 2))
             self.assertEqual(self.Statistics.result, round(float(row['StDev']), 2))
         test_data.clear()
+
+    #Testing z-score
+    def test_z_score(self):
+        test_data = CSVReader('/Tests/Data_Statistics/ZScore_Data.csv').data
+        #pprint(test_data)
+        for row in test_data:
+            self.assertEqual(self.Statistics.z_score(row['Score'], row['Mean'], row['StDev']), round(float(row['Z-Score']), 2))
+            self.assertEqual(self.Statistics.result, round(float(row['Z-Score']), 2))
+        test_data.clear()

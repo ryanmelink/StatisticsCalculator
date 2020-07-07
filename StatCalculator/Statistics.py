@@ -32,8 +32,8 @@ class Statistics(Calculator):
         self.result = standard_deviation(a, b, c, d, e)
         return self.result
 
-    def z_score(self, data):
-        self.result = z_score(data)
+    def z_score(self, score, stdev, meanscore):
+        self.result = z_score(score, stdev, meanscore)
         return self.result
 
     pass
