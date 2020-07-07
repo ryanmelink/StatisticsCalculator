@@ -1,17 +1,16 @@
-from collections import Counter
+import statistics
 
-def mode(num):
+def mode(a, b, c, d, e):
     try:
-        num_values = len(num)
-        count = Counter(num)
-        get_mode = dict(count)
-        mode = [k for k, v in get_mode.items() if v == max(list(count.values()))]
-        if len(mode) == num_values:
-            get_mode = "No mode found"
-        else:
-            get_mode = mode[0]
-        return get_mode
+        a = int(a)
+        b = int(b)
+        c = int(c)
+        d = int(d)
+        e = int(e)
+        mode_list = [a, b, c, d, e]
+        result = statistics.mode(mode_list)
+        return result
     except ZeroDivisionError:
-        print("Error!  Cannot divide by 0")
+        print("Error - Cannot divide by 0")
     except ValueError:
-        print("Error!  Invalid data inputs")
+        print("Error - Invalid data inputs")

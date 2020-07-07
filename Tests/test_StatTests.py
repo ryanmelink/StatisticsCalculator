@@ -25,8 +25,17 @@ class MyTestCase(unittest.TestCase):
     #Testing median
     def test_median(self):
         test_data = CSVReader('/Tests/Data_Statistics/Median_Data.csv').data
-        pprint(test_data)
+        #pprint(test_data)
         for row in test_data:
             self.assertEqual(self.Statistics.median(row['Value1'], row['Value2'], row['Value3'], row['Value4'], row['Value5']), float(row['Median']))
             self.assertEqual(self.Statistics.result, float(row['Median']))
+        test_data.clear()
+
+    #Testing mode
+    def test_mode(self):
+        test_data = CSVReader('/Tests/Data_Statistics/Mode_Data.csv').data
+        pprint(test_data)
+        for row in test_data:
+            self.assertEqual(self.Statistics.mode(row['Value1'], row['Value2'], row['Value3'], row['Value4'], row['Value5']), int(row['Mode']))
+            self.assertEqual(self.Statistics.result, int(row["Mode"]))
         test_data.clear()
