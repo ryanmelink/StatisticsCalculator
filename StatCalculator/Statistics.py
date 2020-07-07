@@ -12,8 +12,8 @@ class Statistics(Calculator):
     def __init__(self):
         super().__init__()
 
-    def mean(self, data):
-        self.result = mean(data)
+    def mean(self, a, b, c, d, e):
+        self.result = mean(a, b, c, d, e)
         return self.result
 
     def median(self, data):
