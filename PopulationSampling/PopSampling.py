@@ -4,6 +4,7 @@ from PopulationSampling.FindSampleSize import find_sample_size
 from PopulationSampling.RandomSampling import random_sampling
 from PopulationSampling.ConfidenceInterval import confidence_interval
 from PopulationSampling.MarginOfError import margin_of_error
+from PopulationSampling.FindSampleSize import find_sample_size
 
 class PopSampling(Calculator):
     data = []
@@ -33,6 +34,10 @@ class PopSampling(Calculator):
 
     def margin_of_error(self, data1, data2, data3):
         self.result = margin_of_error(data1, data2, data3)
+        return self.result
+
+    def find_sample_size(self, data1, data2, data3):
+        self.result = find_sample_size(data1, data2, data3)
         return self.result
 
     pass

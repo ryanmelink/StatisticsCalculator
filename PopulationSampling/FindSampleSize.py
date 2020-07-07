@@ -1,12 +1,20 @@
 #How to Find a Sample Size Given a Confidence Interval and Width (unknown population standard deviation)
 
-def find_sample_size(num):
+#Sample Size = (^p * ^q) * (Za2 / E)^2
+
+from Calculator.Division import division
+from Calculator.Multiplication import multiplication
+from Calculator.Squared import squared
+
+def find_sample_size(p, q, w):
     try:
-        num_values = len(num)
-        z = 1.96
-        stand_dev = 15
-        avg = mean(num)
-        return round(avg + (z * stand_dev / squared_root(num_values)), 5)
+        za2 = 1.96
+        E = division(w, 2)
+        data1 = multiplication(p, q)
+        data2 = division(za2, E)
+        data3 = squared(data2)
+        return float(multiplication(data1, data3))
+
     except ZeroDivisionError:
         print("Error! Can't Divide by 0")
     except ValueError:

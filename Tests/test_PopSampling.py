@@ -5,7 +5,7 @@ from CSVReader.CSVReader import CSVReader
 
 class MyTestCase(unittest.TestCase):
     test_CochranFormula = CSVReader('Tests/Data_PopSample/CochranFormula_Test.csv').data
-    test_FindSampleSize = CSVReader('')
+    test_FindSampleSize = CSVReader('Tests/Data_PopSample/FindSampleSize_Test.csv').data
     test_ConfidenceInterval = CSVReader('Tests/Data_PopSample/ConfidenceInterval_Test.csv').data
     test_MarginOfError = CSVReader('Tests/Data_PopSample/MarginOfError_Test.csv').data
     test_RandomSampling = CSVReader('Tests/Data_PopSample/RandomSampling_Test.csv').data
@@ -18,7 +18,9 @@ class MyTestCase(unittest.TestCase):
 
     def test_Cochran(self):
         for row in self.test_CochranFormula:
-            self.assertEqual(self.PopSampling.cochran(float((row['p'])), float(row['q']), float(row['z']), float(row['e'])),float(row['a']))
+            self.assertEqual(
+                self.PopSampling.cochran(float((row['p'])), float(row['q']), float(row['z']), float(row['e'])),
+                float(row['a']))
             self.assertEqual(self.PopSampling.result, float(row['a']))
 
     def test_confidence_interval(self):
@@ -30,9 +32,10 @@ class MyTestCase(unittest.TestCase):
                 list.append(int(row[keys]))
             self.assertEqual(self.PopSampling.confidence_interval(list), str(row['ci']))
 
-
-    #def test_find_sample_size(self):
-        #for row in self.test_FindSampleSize:
+    def test_find_sample_size(self):
+        for row in self.test_FindSampleSize:
+            self.PopSampling.find_sample_size(float(row['p']), float(row['q']), float(row['E']))
+            self.assertEqual(self.PopSampling.result, (row['Sample']))
 
     def test_margin_of_error(self):
         for row in self.test_MarginOfError:
@@ -44,8 +47,6 @@ class MyTestCase(unittest.TestCase):
             series = [row['Value1'], row['Value2'], row['Value3'], row['Value4'], row['Value5']]
             value = self.PopSampling.random_sampling(series, int(row['Choose']))
             self.assertEqual(len(value), int(row['Choose']))
-
-
 
 
 if __name__ == '__main__':

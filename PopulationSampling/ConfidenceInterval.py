@@ -16,6 +16,7 @@ def confidence_interval(data):
         conf_int = multiplication(zvalue, (division(squared_root(nLen), sd)))
         x = round(float(conf_int), 1)
         return str(str(nMean) + "+" + str(x))
+
     except ZeroDivisionError:
         print("Error! Cannot Divide by 0")
     except ValueError:
