@@ -108,24 +108,24 @@
 | Make Modules | Kelly | 7/2/2020 | 7/2/2020| 
 | Make test .csv files for statistics | Monica | 7/6/2020 | 7/6/2020 |  
 | Test .csv files using statistics library | Monica | 7/6/2020 | 7/6/2020 |
-| Make mean static class | --- | --- | ---|  
-| Make mean method calling static class | --- | --- | ---|  
-| Test mean method | --- | --- | ---|    
-| Make median static class | --- | --- | ---|  
-| Make median method calling static class | --- | --- | ---|  
-| Test median method | --- | --- | ---| 
-| Make mode static class | --- | --- | ---|  
-| Make mode method calling static class | --- | --- | ---|  
-| Test mode method | --- | --- | ---| 
-| Make variance static class | --- | --- | ---|  
-| Make variance method calling static class | --- | --- | ---|  
-| Test variance method | --- | --- | ---| 
-| Make standard deviation static class | --- | --- | ---|  
-| Make standard deviation method calling static class | --- | --- | ---|  
-| Test standard deviation method | --- | --- | ---| 
-| Make z-score static class | --- | --- | ---|  
-| Make z-score method calling static class | --- | --- | ---|  
-| Test z-score method | --- | --- | ---| 
+| Make mean static class | Kelly | 7/5/2020 | 7/6/2020 |  
+| Make mean method calling static class | Monica | 7/7/2020 | 7/7/2020 |  
+| Test mean method | Monica | 7/7/2020 | 7/7/2020 |   
+| Make median static class | Kelly | 7/5/2020 | 7/6/2020 |  
+| Make median method calling static class | Monica | 7/7/2020 | 7/7/2020 |   
+| Test median method | Monica | 7/7/2020 | 7/7/2020 |  
+| Make mode static class | Kelly | 7/5/2020 | 7/6/2020 | 
+| Make mode method calling static class | Monica | 7/7/2020 | 7/7/2020 |  
+| Test mode method | Monica | 7/7/2020 | 7/7/2020 |  
+| Make variance static class | Kelly | 7/5/2020 | 7/6/2020 | 
+| Make variance method calling static class | Monica | 7/7/2020 | 7/7/2020 |   
+| Test variance method | Monica | 7/7/2020 | 7/7/2020 |  
+| Make standard deviation static class | Kelly | 7/5/2020 | 7/6/2020 | 
+| Make standard deviation method calling static class | Monica | 7/7/2020 | 7/7/2020 |    
+| Test standard deviation method | Monica | 7/7/2020 | 7/7/2020 |  
+| Make z-score static class | Kelly | 7/5/2020 | 7/6/2020 |  
+| Make z-score method calling static class | Monica | 7/7/2020 | 7/7/2020 |  
+| Test z-score method | Monica | 7/7/2020 | 7/7/2020 |  
 **MAKE POPULATION SAMPLING MODULE** | --- | --- | ---| 
 | Make Modules | Kelly | 7/5/2020 | 7/5/2020| 
 | Make cochran's formula static class | --- | --- | ---|  

@@ -3,7 +3,7 @@ from StatCalculator.Mean import mean
 from StatCalculator.Median import median
 from StatCalculator.Mode import mode
 from StatCalculator.Variance import variance
-from StatCalculator.StandardDev import stand_dev
+from StatCalculator.StandardDev import standard_deviation
 from StatCalculator.ZScore import z_score
 
 class Statistics(Calculator):
@@ -12,28 +12,28 @@ class Statistics(Calculator):
     def __init__(self):
         super().__init__()
 
-    def mean(self, data):
-        self.result = mean(data)
+    def mean(self, a, b, c, d, e):
+        self.result = mean(a, b, c, d, e)
         return self.result
 
-    def median(self, data):
-        self.result = median(data)
+    def median(self, a, b, c, d, e):
+        self.result = median(a, b, c, d, e)
         return self.result
 
-    def mode(self, data):
-        self.result = mode(data)
+    def mode(self, a, b, c, d, e):
+        self.result = mode(a, b, c, d, e)
         return self.result
 
-    def variance(self, data):
-        self.result = variance(data)
+    def variance(self, a, b, c, d, e):
+        self.result = variance(a, b, c, d, e)
         return self.result
 
-    def stand_dev(self, data):
-        self.result = stand_dev(data)
+    def standard_deviation(self, a, b, c, d, e):
+        self.result = standard_deviation(a, b, c, d, e)
         return self.result
 
-    def z_score(self, data):
-        self.result = z_score(data)
+    def z_score(self, score, stdev, meanscore):
+        self.result = z_score(score, stdev, meanscore)
         return self.result
 
     pass

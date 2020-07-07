@@ -65,7 +65,7 @@ class MyTestCase(unittest.TestCase):
         the_list = GenListWithSeed.list_int(1, 20, 5, 30)
         result = ListItemNoSeed.list_items(the_list)
         self.assertEqual(result, 10)
-        pprint(result)
+        #pprint(result)
 
 
 
