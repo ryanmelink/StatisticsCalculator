@@ -1,11 +1,11 @@
 from StatCalculator.Mean import mean
-from StatCalculator.StandardDev import stand_dev
+from StatCalculator.StandardDev import standard_deviation
 
 
 def z_score(num):
     try:
         z_mean = mean(num)
-        sd = stand_dev(num)
+        sd = standard_deviation(num)
         z_list = []
         z_list1 = []
 

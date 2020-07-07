@@ -3,7 +3,7 @@ from StatCalculator.Mean import mean
 from StatCalculator.Median import median
 from StatCalculator.Mode import mode
 from StatCalculator.Variance import variance
-from StatCalculator.StandardDev import stand_dev
+from StatCalculator.StandardDev import standard_deviation
 from StatCalculator.ZScore import z_score
 
 class Statistics(Calculator):
@@ -28,8 +28,8 @@ class Statistics(Calculator):
         self.result = variance(a, b, c, d, e)
         return self.result
 
-    def stand_dev(self, data):
-        self.result = stand_dev(data)
+    def standard_deviation(self, a, b, c, d, e):
+        self.result = standard_deviation(a, b, c, d, e)
         return self.result
 
     def z_score(self, data):

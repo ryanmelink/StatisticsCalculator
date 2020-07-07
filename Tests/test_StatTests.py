@@ -48,3 +48,12 @@ class MyTestCase(unittest.TestCase):
             self.assertEqual(self.Statistics.variance(row['Value1'], row['Value2'], row['Value3'], row['Value4'], row['Value5']), round(float(row['Variance']), 2))
             self.assertEqual(self.Statistics.result, round(float(row['Variance']), 2))
         test_data.clear()
+
+    #Testing standard deviation
+    def test_standard_deviation(self):
+        test_data = CSVReader('/Tests/Data_Statistics/Standard_Deviation_Data.csv').data
+        #pprint(test_data)
+        for row in test_data:
+            self.assertEqual(self.Statistics.standard_deviation(row['Value1'], row['Value2'], row['Value3'], row['Value4'], row['Value5']), round(float(row['StDev']), 2))
+            self.assertEqual(self.Statistics.result, round(float(row['StDev']), 2))
+        test_data.clear()
