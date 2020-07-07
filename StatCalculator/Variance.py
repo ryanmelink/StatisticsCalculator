@@ -1,23 +1,36 @@
 from Calculator.Squared import squared
-from Calculator.Division import division
 from Calculator.Subtraction import subtraction
-from StatCalculator.Mean import mean
+from statistics import mean
 
-def variance(data):
+#Variance is the average of the squared differences from the mean
+
+def variance(a, b, c, d, e):
     try:
-        calculateMean = mean(data)
-        distanceArray = []
-        meanDeviationValue = 0
+        a = int(a)
+        b = int(b)
+        c = int(c)
+        d = int(d)
+        e = int(e)
+        data = [a, b, c, d, e]
 
+        #find the mean
+        var_mean = mean(data)
+
+        #For each number, subtract the mean
+        difference = []
         for item in data:
-            distanceArray.append(abs(subtraction(item, calculateMean)))
+            difference.append(item-var_mean)
 
-        num_values = len(data)
-        x = 0
-        for i in distanceArray:
-            x = x + squared(i)
-        return int(division(num_values, x))
-        #may need to switch the values for division
+        #Square the results
+        squared_results = []
+        for item in difference:
+            squared_results.append(item*item)
+
+        #Take the average of the squared results
+        results = (sum(squared_results))/(len(squared_results))
+
+        return round(results, 2)
+
     except ZeroDivisionError:
         print("Error! Cannot divide by 0")
     except ValueError:

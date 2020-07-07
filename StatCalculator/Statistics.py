@@ -24,8 +24,8 @@ class Statistics(Calculator):
         self.result = mode(a, b, c, d, e)
         return self.result
 
-    def variance(self, data):
-        self.result = variance(data)
+    def variance(self, a, b, c, d, e):
+        self.result = variance(a, b, c, d, e)
         return self.result
 
     def stand_dev(self, data):
