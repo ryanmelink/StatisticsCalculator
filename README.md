@@ -76,6 +76,7 @@
                 i. Subtract one number from the mean then divide by the standard deviation  
 
 ### Task List
+
 | To Do | In Progress | Review | Done |  
 | --- | --- | --- | ---|  
 | Set up Skeleton project | Kelly | 7/2/2020 | 7/2/2020 |  
@@ -128,21 +129,21 @@
 | Test z-score method | Monica | 7/7/2020 | 7/7/2020 |  
 **MAKE POPULATION SAMPLING MODULE** | --- | --- | ---| 
 | Make Modules | Kelly | 7/5/2020 | 7/5/2020| 
-| Make cochran's formula static class | --- | --- | ---|  
-| Make cochran's formula method calling static class | --- | --- | ---|  
-| Test cochran's formula method | --- | --- | ---|    
-| Make confidence interval static class | --- | --- | ---|  
-| Make confidence interval method calling static class | --- | --- | ---|  
-| Test confidence interval method | --- | --- | ---| 
-| Make sample size static class | --- | --- | ---|  
-| Make sample size method calling static class | --- | --- | ---|  
-| Test sample size method | --- | --- | ---| 
-| Make margin of error static class | --- | --- | ---|  
-| Make margin of error method calling static class | --- | --- | ---|  
-| Test margin of error method | --- | --- | ---| 
-| Make random sampling static class | --- | --- | ---|  
-| Make random sampling method calling static class | --- | --- | ---|  
-| Test random sampling method | --- | --- | ---| 
+| Make cochran's formula static class | Kelly | 7/7/2020 | 7/20/2020 |  
+| Make cochran's formula method calling static class | Kelly | 7/7/2020 | 7/20/2020 |  
+| Test cochran's formula method | Kelly | 7/7/2020 | 7/20/2020 |  
+| Make confidence interval static class | Kelly | 7/7/2020 | 7/20/2020 |  
+| Make confidence interval method calling static class | Kelly | 7/7/2020 | 7/20/2020 |  
+| Test confidence interval method | Kelly | 7/7/2020 | 7/20/2020 |  
+| Make sample size static class | Kelly | 7/7/2020 | 7/20/2020 |  
+| Make sample size method calling static class | Kelly | 7/7/2020 | 7/20/2020 |  
+| Test sample size method | Kelly | 7/7/2020 | 7/20/2020 |  
+| Make margin of error static class | Kelly | 7/7/2020 | 7/20/2020 |  
+| Make margin of error method calling static class | Kelly | 7/7/2020 | 7/20/2020 |  
+| Test margin of error method | Kelly | 7/7/2020 | 7/20/2020 |  
+| Make random sampling static class | Kelly | 7/7/2020 | 7/20/2020 |   
+| Make random sampling method calling static class | Kelly | 7/7/2020 | 7/20/2020 |  
+| Test random sampling method | Kelly | 7/7/2020 | 7/20/2020 |  
 **MAKE RANDOM GENERATOR MODULE** | --- | --- | ---| 
 | Make Modules | Kelly | 7/5/2020 | 7/5/2020| 
 | Make GenList with Seed static class | Monica | 7/6/2020 | 7/6/2020 |  
