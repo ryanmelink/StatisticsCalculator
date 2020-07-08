@@ -48,3 +48,5 @@ A random sample of **384** households in your target population should be enough
 
 
 [Link to Statisticshowto.com](https://www.statisticshowto.com/probability-and-statistics/find-sample-size/#Cochran)
+
+[Back to Index](README.md)
