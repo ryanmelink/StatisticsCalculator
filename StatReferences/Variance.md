@@ -70,3 +70,5 @@ Take the original data points and **square** them individually.
    * Square
 
 [Link to Statisticshowto.com](https://www.statisticshowto.com/probability-and-statistics/descriptive-statistics/sample-variance/)
+
+[Back to Index](README.md)

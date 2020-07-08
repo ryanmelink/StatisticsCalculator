@@ -24,3 +24,5 @@ Median = 28.5
    * Mean
 
 [Link to Statisticshowto.com](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/mean-median-mode/)
+
+[Back to Index](README.md)

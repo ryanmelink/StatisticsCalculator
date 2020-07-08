@@ -29,3 +29,5 @@ The random.sample() function has two arguments, and both are required.
     [40, 120, 100]
     
 [Link to Pynative.com](https://pynative.com/python-random-sample/)
+
+[Back to Index](README.md)

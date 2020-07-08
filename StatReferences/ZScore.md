@@ -45,3 +45,5 @@ Your score was **0.354 standard deviations above the mean**.
 
 
 [Link to Statisticshowto.com](https://www.statisticshowto.com/probability-and-statistics/z-score/)
+
+[Back to Index](README.md)

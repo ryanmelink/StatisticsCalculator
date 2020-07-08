@@ -1,27 +1,44 @@
-Hash,Commit Subject,Date,Author
+c0087fb,Merge pull request #27 from kb8njit/kb8njit-formatting-updates,Wed Jul 8 18:05:39 2020 -0400,kb8njit
+2bca15e,Update file to include index link,Wed Jul 8 18:03:39 2020 -0400,kb8njit
+be989c4,Update file to include index link,Wed Jul 8 18:03:13 2020 -0400,kb8njit
+8f5ecd1,Update file to include index link,Wed Jul 8 18:02:50 2020 -0400,kb8njit
+1cd1faf,Added Index link to Cochrans py file,Wed Jul 8 18:02:17 2020 -0400,kb8njit
+19aac6e,Update Project_Plan.md,Wed Jul 8 18:00:56 2020 -0400,kb8njit
+91d6b58,Update MarginOfError.md,Wed Jul 8 17:54:38 2020 -0400,kb8njit
+4a2e465,Update RandomSampling.md,Wed Jul 8 17:53:11 2020 -0400,kb8njit
+8f04ca6,Update Variance.md,Wed Jul 8 17:44:04 2020 -0400,kb8njit
+4d307dd,Update Variance.md,Wed Jul 8 17:41:17 2020 -0400,kb8njit
+93cc203,Update StandardDeviation.md,Wed Jul 8 17:37:30 2020 -0400,kb8njit
+6dc05b7,Update Mode.md,Wed Jul 8 17:36:23 2020 -0400,kb8njit
+de8c21a,Update ConfidenceInterval.md,Wed Jul 8 17:35:15 2020 -0400,kb8njit
+61e5c05,Update formatting on Cochran's Formula,Wed Jul 8 17:31:01 2020 -0400,kb8njit
+51f1d11,Merge remote-tracking branch 'origin/Development' into Development,Wed Jul 8 14:03:28 2020 -0400,Monica
+23be258,Task: Updated Changelog,Wed Jul 8 14:03:07 2020 -0400,Monica
+d050659,Task: Reformated log.csv,Wed Jul 8 13:59:01 2020 -0400,Monica Nelson
+3147a2b,Task: Updated Changelog,Wed Jul 8 13:56:44 2020 -0400,Monica
 c6aa7e8,Task: Added Changelog,Wed Jul 8 13:22:46 2020 -0400,Monica
 648fb20,Merge remote-tracking branch 'origin/Development' into Development,Wed Jul 8 13:17:45 2020 -0400,Monica
 becbe58,Task: Added Changelog,Wed Jul 8 13:17:23 2020 -0400,Monica
-3.39E+98,Update README.md,Wed Jul 8 13:02:20 2020 -0400,Monica
+3393e95,Update README.md,Wed Jul 8 13:02:20 2020 -0400,Monica Nelson
 3a0018b,Task: Reorganized and Updated README.md,Wed Jul 8 13:00:30 2020 -0400,Monica
-5423011,Task: Formatted Task List,Wed Jul 8 12:07:51 2020 -0400,Monica
-dcc1f01,Task: Updated Formatting on Task List,Wed Jul 8 12:06:41 2020 -0400,Monica
-8ab9e69,Feature: Added Task List,Wed Jul 8 12:05:49 2020 -0400,Monica
-efe99c7,Task: Rename File,Wed Jul 8 12:05:17 2020 -0400,Monica
-f2d86a5,Task: Update README,Wed Jul 8 12:04:11 2020 -0400,Monica
-25b11a5,Task: Update README,Wed Jul 8 12:03:32 2020 -0400,Monica
-82daa58,Task: Create Task List.md,Wed Jul 8 12:02:42 2020 -0400,Monica
-b2131f8,Task: Create Project Plan.md,Wed Jul 8 12:01:46 2020 -0400,Monica
-875a03e,Merge pull request #23 from kb8njit/mjn28-Task-Update-Task-List,Wed Jul 8 11:58:38 2020 -0400,Monica
-c79be22,Task: Updated Task List,Wed Jul 8 11:58:27 2020 -0400,Monica
-7d0d5d9,Fix:  Fixed Margin coding and tested successfully,Tue Jul 7 23:43:04 2020 -0400,Kelly
-fb1a6ab,Merge pull request #22 from kb8njit/popsampling_new,Tue Jul 7 23:31:53 2020 -0400,Kelly
-2a83725,Update test_PopSampling.py,Tue Jul 7 23:29:54 2020 -0400,Kelly
-ba7d7de,Tasks and Features: Added code and testing to PopSampling module,Tue Jul 7 23:21:30 2020 -0400,Kelly
-8815d06,"Task: Creating FindSampleSize code and test,  tests now failing",Tue Jul 7 20:03:03 2020 -0400,Kelly
-6ce626a,Task: Creating FindSampleSize code and test,Tue Jul 7 19:42:57 2020 -0400,Kelly
-fb505d8,Feature: Created Cochran code and tested successfully,Tue Jul 7 19:33:21 2020 -0400,Kelly
-09d3675,Merge pull request #21 from kb8njit/Statistics_Testing,Tue Jul 7 18:44:55 2020 -0400,Kelly
+5423011,Task: Formatted Task List,Wed Jul 8 12:07:51 2020 -0400,Monica Nelson
+dcc1f01,Task: Updated Formatting on Task List,Wed Jul 8 12:06:41 2020 -0400,Monica Nelson
+8ab9e69,Feature: Added Task List,Wed Jul 8 12:05:49 2020 -0400,Monica Nelson
+efe99c7,Task: Rename File,Wed Jul 8 12:05:17 2020 -0400,Monica Nelson
+f2d86a5,Task: Update README,Wed Jul 8 12:04:11 2020 -0400,Monica Nelson
+25b11a5,Task: Update README,Wed Jul 8 12:03:32 2020 -0400,Monica Nelson
+82daa58,Task: Create Task List.md,Wed Jul 8 12:02:42 2020 -0400,Monica Nelson
+b2131f8,Task: Create Project Plan.md,Wed Jul 8 12:01:46 2020 -0400,Monica Nelson
+875a03e,Merge pull request #23 from kb8njit/mjn28-Task-Update-Task-List,Wed Jul 8 11:58:38 2020 -0400,Monica Nelson
+c79be22,Task: Updated Task List,Wed Jul 8 11:58:27 2020 -0400,Monica Nelson
+7d0d5d9,Fix:  Fixed Margin coding and tested successfully,Tue Jul 7 23:43:04 2020 -0400,kb8njit
+fb1a6ab,Merge pull request #22 from kb8njit/popsampling_new,Tue Jul 7 23:31:53 2020 -0400,kb8njit
+2a83725,Update test_PopSampling.py,Tue Jul 7 23:29:54 2020 -0400,kb8njit
+ba7d7de,Tasks and Features: Added code and testing to PopSampling module,Tue Jul 7 23:21:30 2020 -0400,kb8njit
+8815d06,Task: Creating FindSampleSize code and test, tests now failing,Tue Jul 7 20:03:03 2020 -0400,kb8njit
+6ce626a,Task: Creating FindSampleSize code and test,Tue Jul 7 19:42:57 2020 -0400,kb8njit
+fb505d8,Feature: Created Cochran code and tested successfully,Tue Jul 7 19:33:21 2020 -0400,kb8njit
+09d3675,Merge pull request #21 from kb8njit/Statistics_Testing,Tue Jul 7 18:44:55 2020 -0400,kb8njit
 69a748a,Task: Updated Task List,Tue Jul 7 15:54:03 2020 -0400,Monica
 16e0f7d,Feature: Successfully Tested Z-Score method,Tue Jul 7 15:51:39 2020 -0400,Monica
 4e443d2,Feature: Successfully Tested Standard Deviation method,Tue Jul 7 15:31:22 2020 -0400,Monica
@@ -29,17 +46,17 @@ acd3760,Feature: Successfully Tested Variance method,Tue Jul 7 15:08:36 2020 -04
 2a07743,Feature: Successfully Tested Mode method,Tue Jul 7 13:32:22 2020 -0400,Monica
 3332d3e,Feature: Successfully Tested Median method,Tue Jul 7 00:17:03 2020 -0400,Monica
 4c1609d,Feature: Successfully Tested Mean method,Mon Jul 6 23:13:03 2020 -0400,Monica
-fadf261,Merge pull request #20 from kb8njit/StatFunctions,Mon Jul 6 21:29:07 2020 -0400,Kelly
-1b2fbb9,Feature: Added stat functions,Mon Jul 6 21:27:47 2020 -0400,Kelly
-6c275d2,Merge pull request #17 from kb8njit/RandomGenerator,Mon Jul 6 20:55:15 2020 -0400,Kelly
+fadf261,Merge pull request #20 from kb8njit/StatFunctions,Mon Jul 6 21:29:07 2020 -0400,kb8njit
+1b2fbb9,Feature: Added stat functions,Mon Jul 6 21:27:47 2020 -0400,kb8njit
+6c275d2,Merge pull request #17 from kb8njit/RandomGenerator,Mon Jul 6 20:55:15 2020 -0400,kb8njit
 8c6e0af,Task: Updated Task List,Mon Jul 6 20:48:27 2020 -0400,Monica
 911c90b,Task: Created and added .csv files for Statistics Testing,Mon Jul 6 20:46:36 2020 -0400,Monica
-f7e2f82,Merge pull request #15 from kb8njit/RandomGenerator,Mon Jul 6 19:25:11 2020 -0400,Kelly
+f7e2f82,Merge pull request #15 from kb8njit/RandomGenerator,Mon Jul 6 19:25:11 2020 -0400,kb8njit
 babf5a3,Task: Updated Task List,Mon Jul 6 19:09:22 2020 -0400,Monica
 dd1e2cd,Feature: Successfully tested SetSeed_RandomSelect,Mon Jul 6 19:05:52 2020 -0400,Monica
 8b4efe4,Feature: Created SetSeed_RandomSelect static method,Mon Jul 6 18:14:03 2020 -0400,Monica
 4291047,Feature: Successfully tested Select_RandomItem,Mon Jul 6 18:10:54 2020 -0400,Monica
-a94ddc9,Feature: Added code to StandardDev.py,Mon Jul 6 17:45:54 2020 -0400,Kelly
+a94ddc9,Feature: Added code to StandardDev.py,Mon Jul 6 17:45:54 2020 -0400,kb8njit
 84fab4f,Feature: Created Select_RandomItem static method,Mon Jul 6 17:45:16 2020 -0400,Monica
 db77c92,Feature: Successfully tested ListItems_WithSeed,Mon Jul 6 17:26:00 2020 -0400,Monica
 9291a25,Feature: Created ListItems_WithSeed static methods,Mon Jul 6 17:22:28 2020 -0400,Monica
@@ -49,47 +66,47 @@ db77c92,Feature: Successfully tested ListItems_WithSeed,Mon Jul 6 17:26:00 2020 
 73f7784,Feature: Created GenNum_WithSeed static methods,Mon Jul 6 16:48:06 2020 -0400,Monica
 3f2d0c5,Feature: Successfully tested GenNum_NoSeed,Mon Jul 6 16:44:48 2020 -0400,Monica
 6963a5a,Feature: Created GenNum_NoSeed static methods,Mon Jul 6 16:28:01 2020 -0400,Monica
-c1fa5f7,Feature: Added code to Mean.py and Variance.py,Mon Jul 6 15:56:01 2020 -0400,Kelly
-f8e923b,Fix: Refactored the Data folders,Mon Jul 6 15:32:22 2020 -0400,Kelly
-059dc40,Merge pull request #13 from kb8njit/PopSample_CodeUdpates,Mon Jul 6 15:08:33 2020 -0400,Kelly
+c1fa5f7,Feature: Added code to Mean.py and Variance.py,Mon Jul 6 15:56:01 2020 -0400,kb8njit
+f8e923b,Fix: Refactored the Data folders,Mon Jul 6 15:32:22 2020 -0400,kb8njit
+059dc40,Merge pull request #13 from kb8njit/PopSample_CodeUdpates,Mon Jul 6 15:08:33 2020 -0400,kb8njit
 a2cd703,Merge remote-tracking branch 'origin/Development' into Development,Mon Jul 6 15:05:55 2020 -0400,Monica
 94f38d3,Feature: Added GenList_WithSeed and tested successfully,Mon Jul 6 15:05:18 2020 -0400,Monica
-8d32187,Task: Updated files to be more descriptive,Mon Jul 6 14:52:53 2020 -0400,Kelly
-351aab0,Task:  Added imports to PopSample files,Mon Jul 6 14:38:34 2020 -0400,Kelly
-d47daaa,Fix: Removed 2 reference files and reformatted CochransFormula.md,Mon Jul 6 14:20:49 2020 -0400,Kelly
-7d40650,Fix:  Fixed formatting of CochransFormula.md,Mon Jul 6 13:41:12 2020 -0400,Kelly
-863f541,Merge remote-tracking branch 'origin/Development' into Development,Mon Jul 6 13:38:48 2020 -0400,Kelly
-de2f4a0,Feature:  Added data to ConfidenceInterval.md and updated formatting of references,Mon Jul 6 13:38:24 2020 -0400,Kelly
+8d32187,Task: Updated files to be more descriptive,Mon Jul 6 14:52:53 2020 -0400,kb8njit
+351aab0,Task:  Added imports to PopSample files,Mon Jul 6 14:38:34 2020 -0400,kb8njit
+d47daaa,Fix: Removed 2 reference files and reformatted CochransFormula.md,Mon Jul 6 14:20:49 2020 -0400,kb8njit
+7d40650,Fix:  Fixed formatting of CochransFormula.md,Mon Jul 6 13:41:12 2020 -0400,kb8njit
+863f541,Merge remote-tracking branch 'origin/Development' into Development,Mon Jul 6 13:38:48 2020 -0400,kb8njit
+de2f4a0,Feature:  Added data to ConfidenceInterval.md and updated formatting of references,Mon Jul 6 13:38:24 2020 -0400,kb8njit
 d129076,Merge remote-tracking branch 'origin/Development' into Development,Mon Jul 6 12:27:20 2020 -0400,Monica
 037d9d3,Task: Updated Task List,Mon Jul 6 12:26:27 2020 -0400,Monica
-f908108,Feature:  Added data to CochransFormula.md,Mon Jul 6 12:16:43 2020 -0400,Kelly
-ce70aac,Fix:  Fixed format of Variance.md,Mon Jul 6 11:54:00 2020 -0400,Kelly
-d51598c,Feature:  Added data to Variance.md,Mon Jul 6 11:52:50 2020 -0400,Kelly
-5e273fa,Feature:  Added data to Mode.md,Mon Jul 6 11:16:28 2020 -0400,Kelly
-c2f3a9e,Feature:  Added data to Median.md,Mon Jul 6 11:11:36 2020 -0400,Kelly
-4abd2be,Fix:  Updated StandardDeviation.md,Mon Jul 6 11:02:26 2020 -0400,Kelly
-b136f0b,Feature:  Included data in StandardDeviation.md,Mon Jul 6 11:00:35 2020 -0400,Kelly
-3ffe7d4,Fix: Reformatted some reference files,Mon Jul 6 10:28:04 2020 -0400,Kelly
-63f2dea,Feature: Updated Mean Reference.md file,Mon Jul 6 10:25:53 2020 -0400,Kelly
-a2e4fc9,Fix: Updated Z-Score reference page,Mon Jul 6 10:11:57 2020 -0400,Kelly
-c519bed,Feature:  Created References directory for stat function descriptions,Mon Jul 6 10:09:03 2020 -0400,Kelly
-4b554b5,Fix: Removed mean coding/test,Sun Jul 5 17:17:14 2020 -0400,Kelly
-fa883a6,Task: Attempted to add code for Mean and create test,Sun Jul 5 17:12:50 2020 -0400,Kelly
-048604d,Task: Added test_StatTests.py for statistic tests,Sun Jul 5 15:15:23 2020 -0400,Kelly
-7de7bc7,Task: Added PopSampling directory and python files,Sun Jul 5 15:08:41 2020 -0400,Kelly
-ad294be,Task: Added Random generator files,Sun Jul 5 15:01:05 2020 -0400,Kelly
-52dece7,Task: Created RandomGenerator directory,Sun Jul 5 14:44:16 2020 -0400,Kelly
-7511c3f,Fix: Updated code in CSVReader.py,Sun Jul 5 14:30:17 2020 -0400,Kelly
+f908108,Feature:  Added data to CochransFormula.md,Mon Jul 6 12:16:43 2020 -0400,kb8njit
+ce70aac,Fix:  Fixed format of Variance.md,Mon Jul 6 11:54:00 2020 -0400,kb8njit
+d51598c,Feature:  Added data to Variance.md,Mon Jul 6 11:52:50 2020 -0400,kb8njit
+5e273fa,Feature:  Added data to Mode.md,Mon Jul 6 11:16:28 2020 -0400,kb8njit
+c2f3a9e,Feature:  Added data to Median.md,Mon Jul 6 11:11:36 2020 -0400,kb8njit
+4abd2be,Fix:  Updated StandardDeviation.md,Mon Jul 6 11:02:26 2020 -0400,kb8njit
+b136f0b,Feature:  Included data in StandardDeviation.md,Mon Jul 6 11:00:35 2020 -0400,kb8njit
+3ffe7d4,Fix: Reformatted some reference files,Mon Jul 6 10:28:04 2020 -0400,kb8njit
+63f2dea,Feature: Updated Mean Reference.md file,Mon Jul 6 10:25:53 2020 -0400,kb8njit
+a2e4fc9,Fix: Updated Z-Score reference page,Mon Jul 6 10:11:57 2020 -0400,kb8njit
+c519bed,Feature:  Created References directory for stat function descriptions,Mon Jul 6 10:09:03 2020 -0400,kb8njit
+4b554b5,Fix: Removed mean coding/test,Sun Jul 5 17:17:14 2020 -0400,kb8njit
+fa883a6,Task: Attempted to add code for Mean and create test,Sun Jul 5 17:12:50 2020 -0400,kb8njit
+048604d,Task: Added test_StatTests.py for statistic tests,Sun Jul 5 15:15:23 2020 -0400,kb8njit
+7de7bc7,Task: Added PopSampling directory and python files,Sun Jul 5 15:08:41 2020 -0400,kb8njit
+ad294be,Task: Added Random generator files,Sun Jul 5 15:01:05 2020 -0400,kb8njit
+52dece7,Task: Created RandomGenerator directory,Sun Jul 5 14:44:16 2020 -0400,kb8njit
+7511c3f,Fix: Updated code in CSVReader.py,Sun Jul 5 14:30:17 2020 -0400,kb8njit
 2999060,Tasks: Travis Fixes,Sun Jul 5 14:08:57 2020 -0400,Monica
 8c26f63,Task: Updated Task List,Sun Jul 5 13:52:41 2020 -0400,Monica
 ce0963a,Feature: Created test_CalculatorTest.py and ran tests successfully,Sun Jul 5 13:46:40 2020 -0400,Monica
-602d899,Fix:  Fixed code in CSVReader.py,Fri Jul 3 15:00:10 2020 -0400,Kelly
-76f35fe,Task: Created FileUtilities and updated CSVReader with Absolute_Path.py,Fri Jul 3 14:54:48 2020 -0400,Kelly
-299b2d1,Task: Created Calculator.py and imported functions.  Created Calculator Class,Fri Jul 3 14:46:18 2020 -0400,Kelly
-a51d2af,Fix: Reformatted Calc functions,Fri Jul 3 14:39:37 2020 -0400,Kelly
-5f4ebe8,Task: Created Data directory in Tests directory and included csv files,Fri Jul 3 14:21:39 2020 -0400,Kelly
-0c29eed,Merge pull request #9 from kb8njit/master,Fri Jul 3 14:12:43 2020 -0400,Kelly
-8f86f8d,Merge pull request #8 from mjn28/Development,Fri Jul 3 14:10:39 2020 -0400,Kelly
+602d899,Fix:  Fixed code in CSVReader.py,Fri Jul 3 15:00:10 2020 -0400,kb8njit
+76f35fe,Task: Created FileUtilities and updated CSVReader with Absolute_Path.py,Fri Jul 3 14:54:48 2020 -0400,kb8njit
+299b2d1,Task: Created Calculator.py and imported functions.  Created Calculator Class,Fri Jul 3 14:46:18 2020 -0400,kb8njit
+a51d2af,Fix: Reformatted Calc functions,Fri Jul 3 14:39:37 2020 -0400,kb8njit
+5f4ebe8,Task: Created Data directory in Tests directory and included csv files,Fri Jul 3 14:21:39 2020 -0400,kb8njit
+0c29eed,Merge pull request #9 from kb8njit/master,Fri Jul 3 14:12:43 2020 -0400,kb8njit
+8f86f8d,Merge pull request #8 from mjn28/Development,Fri Jul 3 14:10:39 2020 -0400,kb8njit
 e6c83c3,Feature: Added squared root static method to Calculator module,Thu Jul 2 17:50:58 2020 -0400,Monica
 2316854,Feature: Added squared static method to Calculator module,Thu Jul 2 17:47:22 2020 -0400,Monica
 c8890c7,Feature: Added division static method to Calculator module,Thu Jul 2 17:45:58 2020 -0400,Monica
@@ -98,15 +115,15 @@ dbf28c8,Feature: Added multiplication static method to Calculator module,Thu Jul
 a1d6496,Feature: Added addition static method to Calculator module,Thu Jul 2 17:41:31 2020 -0400,Monica
 307c62d,Task: Added Task List to README.md file,Thu Jul 2 17:22:16 2020 -0400,Monica
 9cd3662,Task: Formatted README.md file,Thu Jul 2 17:07:21 2020 -0400,Monica
-fbdda53,Merge pull request #7 from kb8njit/Development,Thu Jul 2 12:07:32 2020 -0400,Kelly
-bf38614,Task: Added stat function files,Thu Jul 2 12:06:24 2020 -0400,Kelly
-88aa270,Merge pull request #6 from kb8njit/Development,Thu Jul 2 12:02:26 2020 -0400,Kelly
-afb74e4,Merge pull request #5 from kb8njit/mjn28-Feature-Added-Travis-Build-Image,Thu Jul 2 12:00:50 2020 -0400,Kelly
-67da2a7,Merge pull request #3 from kb8njit/Development,Thu Jul 2 11:57:50 2020 -0400,Kelly
-908b3c6,Feature: Added Travis Build Image,Thu Jul 2 11:57:06 2020 -0400,Monica
-9e0f4e7,Merge pull request #2 from kb8njit/mjn28-Task-Updated-README,Thu Jul 2 11:55:54 2020 -0400,Kelly
-a057902,Task: Added Project Plan to the README.md,Thu Jul 2 11:53:44 2020 -0400,Monica
-6225be2,Merge pull request #1 from kb8njit/master,Thu Jul 2 11:51:07 2020 -0400,Kelly
-a8f2521,Task: Began project skeleton,Thu Jul 2 11:42:34 2020 -0400,Kelly
-f56cd3f,Create .gitignore,Thu Jul 2 11:34:56 2020 -0400,Kelly
-52aa677,Initial commit,Thu Jul 2 11:34:31 2020 -0400,Kelly
+fbdda53,Merge pull request #7 from kb8njit/Development,Thu Jul 2 12:07:32 2020 -0400,kb8njit
+bf38614,Task: Added stat function files,Thu Jul 2 12:06:24 2020 -0400,kb8njit
+88aa270,Merge pull request #6 from kb8njit/Development,Thu Jul 2 12:02:26 2020 -0400,kb8njit
+afb74e4,Merge pull request #5 from kb8njit/mjn28-Feature-Added-Travis-Build-Image,Thu Jul 2 12:00:50 2020 -0400,kb8njit
+67da2a7,Merge pull request #3 from kb8njit/Development,Thu Jul 2 11:57:50 2020 -0400,kb8njit
+908b3c6,Feature: Added Travis Build Image,Thu Jul 2 11:57:06 2020 -0400,Monica Nelson
+9e0f4e7,Merge pull request #2 from kb8njit/mjn28-Task-Updated-README,Thu Jul 2 11:55:54 2020 -0400,kb8njit
+a057902,Task: Added Project Plan to the README.md,Thu Jul 2 11:53:44 2020 -0400,Monica Nelson
+6225be2,Merge pull request #1 from kb8njit/master,Thu Jul 2 11:51:07 2020 -0400,kb8njit
+a8f2521,Task: Began project skeleton,Thu Jul 2 11:42:34 2020 -0400,kb8njit
+f56cd3f,Create .gitignore,Thu Jul 2 11:34:56 2020 -0400,kb8njit
+52aa677,Initial commit,Thu Jul 2 11:34:31 2020 -0400,kb8njit
