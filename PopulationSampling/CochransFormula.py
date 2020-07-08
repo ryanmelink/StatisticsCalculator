@@ -13,17 +13,19 @@ def cochran(z, p, q, e):
         q = float(q)
         e = float(e)
 
-        num1 = squared(z)
-        num2 = multiplication(p, q)
-        num3 = squared(e)
-        num4 = multiplication(num1, num2)
-        result = division(num4, num3)
+        num1 = z * z
+        num2 = p * q
+        num3 = e * e
+        num4 = num1 *num2
+        result = round(num4 / num3)
         return result
 
     except ZeroDivisionError:
         print('Error!  Cannot divide by 0')
     except ValueError:
         print('Error! Invalid data inputs')
+
+
 
 # Z,p,q,e,Sample
 # 1.96,0.5,0.5,0.05,384
