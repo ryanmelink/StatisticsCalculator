@@ -35,7 +35,7 @@ c79be22,Task: Updated Task List,Wed Jul 8 11:58:27 2020 -0400,Monica Nelson
 fb1a6ab,Merge pull request #22 from kb8njit/popsampling_new,Tue Jul 7 23:31:53 2020 -0400,kb8njit
 2a83725,Update test_PopSampling.py,Tue Jul 7 23:29:54 2020 -0400,kb8njit
 ba7d7de,Tasks and Features: Added code and testing to PopSampling module,Tue Jul 7 23:21:30 2020 -0400,kb8njit
-8815d06,Task: Creating FindSampleSize code and test, tests now failing,Tue Jul 7 20:03:03 2020 -0400,kb8njit
+8815d06,Task: Creating FindSampleSize code and test - tests now failing,Tue Jul 7 20:03:03 2020 -0400,kb8njit
 6ce626a,Task: Creating FindSampleSize code and test,Tue Jul 7 19:42:57 2020 -0400,kb8njit
 fb505d8,Feature: Created Cochran code and tested successfully,Tue Jul 7 19:33:21 2020 -0400,kb8njit
 09d3675,Merge pull request #21 from kb8njit/Statistics_Testing,Tue Jul 7 18:44:55 2020 -0400,kb8njit
