@@ -7,6 +7,6 @@
 [![Build Status](https://travis-ci.com/kb8njit/StatisticsCalculator.svg?branch=master)](https://travis-ci.com/github/kb8njit/StatisticsCalculator)
 
 ## [Project Plan](Project_Plan.md)
-## [Task List](Task List.md)
+## [Task List](Task_List.md)
 ## [References](StatReferences)
 
