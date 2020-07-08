@@ -15,23 +15,23 @@ de8c21a,Update ConfidenceInterval.md,Wed Jul 8 17:35:15 2020 -0400,kb8njit
 61e5c05,Update formatting on Cochran's Formula,Wed Jul 8 17:31:01 2020 -0400,kb8njit
 51f1d11,Merge remote-tracking branch 'origin/Development' into Development,Wed Jul 8 14:03:28 2020 -0400,Monica
 23be258,Task: Updated Changelog,Wed Jul 8 14:03:07 2020 -0400,Monica
-d050659,Task: Reformated log.csv,Wed Jul 8 13:59:01 2020 -0400,Monica Nelson
+d050659,Task: Reformated log.csv,Wed Jul 8 13:59:01 2020 -0400,Monica
 3147a2b,Task: Updated Changelog,Wed Jul 8 13:56:44 2020 -0400,Monica
 c6aa7e8,Task: Added Changelog,Wed Jul 8 13:22:46 2020 -0400,Monica
 648fb20,Merge remote-tracking branch 'origin/Development' into Development,Wed Jul 8 13:17:45 2020 -0400,Monica
 becbe58,Task: Added Changelog,Wed Jul 8 13:17:23 2020 -0400,Monica
-3393e95,Update README.md,Wed Jul 8 13:02:20 2020 -0400,Monica Nelson
+3393e95,Update README.md,Wed Jul 8 13:02:20 2020 -0400,Monica
 3a0018b,Task: Reorganized and Updated README.md,Wed Jul 8 13:00:30 2020 -0400,Monica
-5423011,Task: Formatted Task List,Wed Jul 8 12:07:51 2020 -0400,Monica Nelson
-dcc1f01,Task: Updated Formatting on Task List,Wed Jul 8 12:06:41 2020 -0400,Monica Nelson
-8ab9e69,Feature: Added Task List,Wed Jul 8 12:05:49 2020 -0400,Monica Nelson
-efe99c7,Task: Rename File,Wed Jul 8 12:05:17 2020 -0400,Monica Nelson
-f2d86a5,Task: Update README,Wed Jul 8 12:04:11 2020 -0400,Monica Nelson
-25b11a5,Task: Update README,Wed Jul 8 12:03:32 2020 -0400,Monica Nelson
-82daa58,Task: Create Task List.md,Wed Jul 8 12:02:42 2020 -0400,Monica Nelson
-b2131f8,Task: Create Project Plan.md,Wed Jul 8 12:01:46 2020 -0400,Monica Nelson
-875a03e,Merge pull request #23 from kb8njit/mjn28-Task-Update-Task-List,Wed Jul 8 11:58:38 2020 -0400,Monica Nelson
-c79be22,Task: Updated Task List,Wed Jul 8 11:58:27 2020 -0400,Monica Nelson
+5423011,Task: Formatted Task List,Wed Jul 8 12:07:51 2020 -0400,Monica
+dcc1f01,Task: Updated Formatting on Task List,Wed Jul 8 12:06:41 2020 -0400,Monica
+8ab9e69,Feature: Added Task List,Wed Jul 8 12:05:49 2020 -0400,Monica 
+efe99c7,Task: Rename File,Wed Jul 8 12:05:17 2020 -0400,Monica 
+f2d86a5,Task: Update README,Wed Jul 8 12:04:11 2020 -0400,Monica 
+25b11a5,Task: Update README,Wed Jul 8 12:03:32 2020 -0400,Monica 
+82daa58,Task: Create Task List.md,Wed Jul 8 12:02:42 2020 -0400,Monica 
+b2131f8,Task: Create Project Plan.md,Wed Jul 8 12:01:46 2020 -0400,Monica 
+875a03e,Merge pull request #23 from kb8njit/mjn28-Task-Update-Task-List,Wed Jul 8 11:58:38 2020 -0400,Monica 
+c79be22,Task: Updated Task List,Wed Jul 8 11:58:27 2020 -0400,Monica 
 7d0d5d9,Fix:  Fixed Margin coding and tested successfully,Tue Jul 7 23:43:04 2020 -0400,kb8njit
 fb1a6ab,Merge pull request #22 from kb8njit/popsampling_new,Tue Jul 7 23:31:53 2020 -0400,kb8njit
 2a83725,Update test_PopSampling.py,Tue Jul 7 23:29:54 2020 -0400,kb8njit
@@ -121,9 +121,9 @@ bf38614,Task: Added stat function files,Thu Jul 2 12:06:24 2020 -0400,kb8njit
 88aa270,Merge pull request #6 from kb8njit/Development,Thu Jul 2 12:02:26 2020 -0400,kb8njit
 afb74e4,Merge pull request #5 from kb8njit/mjn28-Feature-Added-Travis-Build-Image,Thu Jul 2 12:00:50 2020 -0400,kb8njit
 67da2a7,Merge pull request #3 from kb8njit/Development,Thu Jul 2 11:57:50 2020 -0400,kb8njit
-908b3c6,Feature: Added Travis Build Image,Thu Jul 2 11:57:06 2020 -0400,Monica Nelson
+908b3c6,Feature: Added Travis Build Image,Thu Jul 2 11:57:06 2020 -0400,Monica 
 9e0f4e7,Merge pull request #2 from kb8njit/mjn28-Task-Updated-README,Thu Jul 2 11:55:54 2020 -0400,kb8njit
-a057902,Task: Added Project Plan to the README.md,Thu Jul 2 11:53:44 2020 -0400,Monica Nelson
+a057902,Task: Added Project Plan to the README.md,Thu Jul 2 11:53:44 2020 -0400,Monica 
 6225be2,Merge pull request #1 from kb8njit/master,Thu Jul 2 11:51:07 2020 -0400,kb8njit
 a8f2521,Task: Began project skeleton,Thu Jul 2 11:42:34 2020 -0400,kb8njit
 f56cd3f,Create .gitignore,Thu Jul 2 11:34:56 2020 -0400,kb8njit
