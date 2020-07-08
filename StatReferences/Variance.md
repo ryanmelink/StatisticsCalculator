@@ -14,7 +14,7 @@ The **Variance** is mathematically defined as the **average of the squared diffe
 
 ### The Sample Variance Formula
 
-https://www.statisticshowto.com/wp-content/uploads/2009/08/usual.png
+![Variance](https://www.statisticshowto.com/wp-content/uploads/2009/08/usual.png)
 
 ### Example Equation
 
@@ -70,3 +70,4 @@ Take the original data points and **square** them individually.
    * Division
    * Square
 
+[Link to Statisticshowto.com](https://www.statisticshowto.com/probability-and-statistics/descriptive-statistics/sample-variance/)
