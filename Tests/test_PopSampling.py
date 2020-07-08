@@ -30,13 +30,6 @@ class MyTestCase(unittest.TestCase):
             self.assertEqual(self.PopSampling.result, int(row['Sample']))
         test_data.clear()
 
-    # Testing MarginOfError
-    def test_margin(self):
-        test_data = CSVReader('/Tests/Data_PopSampling/Margin_Data.csv').data
-        for row in test_data:
-            self.assertEqual(self.PopSampling.margin(row['Value1'], row['Value2'], row['Value3'], row['Value4'], row['Value5']), float(row['Error']))
-            self.assertEqual(self.PopSampling.result, float(row['Error']))
-        test_data.clear()
 
     # Testing ConfidenceInterval
     def test_conf_int(self):
