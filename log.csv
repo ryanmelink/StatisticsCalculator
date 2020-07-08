@@ -1,692 +1,111 @@
-commit 3a0018b7b9491c78e64254aab90cb3cd7d83ae97
-Author: Monica <mjn28@njit.edu>
-Date:   Wed Jul 8 13:00:30 2020 -0400
-
-    Task: Reorganized and Updated README.md
-
-commit 542301165214749f87d14cfef2034f0efe2a39a3
-Author: Monica Nelson <66029259+mjn28@users.noreply.github.com>
-Date:   Wed Jul 8 12:07:51 2020 -0400
-
-    Task: Formatted Task List
-
-commit dcc1f01652fe84ffa134920ee387fe1d922a2dcf
-Author: Monica Nelson <66029259+mjn28@users.noreply.github.com>
-Date:   Wed Jul 8 12:06:41 2020 -0400
-
-    Task: Updated Formatting on Task List
-
-commit 8ab9e696e253042374697a599d3151bffa82b44c
-Author: Monica Nelson <66029259+mjn28@users.noreply.github.com>
-Date:   Wed Jul 8 12:05:49 2020 -0400
-
-    Feature: Added Task List
-
-commit efe99c7d517ae2d121b68f154dc8db75ff9e2d95
-Author: Monica Nelson <66029259+mjn28@users.noreply.github.com>
-Date:   Wed Jul 8 12:05:17 2020 -0400
-
-    Task: Rename File
-
-commit f2d86a56d20e89f2c9fcbb14a9a6b16d41d4dfd3
-Author: Monica Nelson <66029259+mjn28@users.noreply.github.com>
-Date:   Wed Jul 8 12:04:11 2020 -0400
-
-    Task: Update README
-
-commit 25b11a573fdc75ca54cd8de2c2f986fb21917984
-Author: Monica Nelson <66029259+mjn28@users.noreply.github.com>
-Date:   Wed Jul 8 12:03:32 2020 -0400
-
-    Task: Update README
-
-commit 82daa5810341c156fa61bf5c3a3f9d7f4e663c32
-Author: Monica Nelson <66029259+mjn28@users.noreply.github.com>
-Date:   Wed Jul 8 12:02:42 2020 -0400
-
-    Task: Create Task List.md
-
-commit b2131f8d986e4704424b24f38600177a3279d094
-Author: Monica Nelson <66029259+mjn28@users.noreply.github.com>
-Date:   Wed Jul 8 12:01:46 2020 -0400
-
-    Task: Create Project Plan.md
-
-commit 875a03e67847d4536be5a405b6b153ea1db2ae79
-Merge: 7d0d5d9 c79be22
-Author: Monica Nelson <66029259+mjn28@users.noreply.github.com>
-Date:   Wed Jul 8 11:58:38 2020 -0400
-
-    Merge pull request #23 from kb8njit/mjn28-Task-Update-Task-List
-    
-    Task: Updated Task List
-
-commit c79be22764e9001c5d27524a37f9af041eab4119
-Author: Monica Nelson <66029259+mjn28@users.noreply.github.com>
-Date:   Wed Jul 8 11:58:27 2020 -0400
-
-    Task: Updated Task List
-
-commit 7d0d5d9ee68d465b6d1a6ec2a1fd1eeffcbd5c85
-Author: kb8njit <kb8@njit.edu>
-Date:   Tue Jul 7 23:43:04 2020 -0400
-
-    Fix:  Fixed Margin coding and tested successfully
-
-commit fb1a6ab3a434c04893088e4b6c1a3ef7c667e235
-Merge: 09d3675 2a83725
-Author: kb8njit <65985355+kb8njit@users.noreply.github.com>
-Date:   Tue Jul 7 23:31:53 2020 -0400
-
-    Merge pull request #22 from kb8njit/popsampling_new
-    
-    PopSampling update to Development Branch
-
-commit 2a837254cccb0dd9acc4916c02f67184a0db4c4b
-Author: kb8njit <65985355+kb8njit@users.noreply.github.com>
-Date:   Tue Jul 7 23:29:54 2020 -0400
-
-    Update test_PopSampling.py
-
-commit ba7d7de5bd482b30cfec91f3f7ae90a3af9ac4ab
-Author: kb8njit <kb8@njit.edu>
-Date:   Tue Jul 7 23:21:30 2020 -0400
-
-    Tasks and Features: Added code and testing to PopSampling module
-
-commit 8815d06cdb7c562f7bd44f3ab60e9b1f76309a80
-Author: kb8njit <kb8@njit.edu>
-Date:   Tue Jul 7 20:03:03 2020 -0400
-
-    Task: Creating FindSampleSize code and test, tests now failing
-
-commit 6ce626ac75ee174d43d8ec481b4bdf018770887f
-Author: kb8njit <kb8@njit.edu>
-Date:   Tue Jul 7 19:42:57 2020 -0400
-
-    Task: Creating FindSampleSize code and test
-
-commit fb505d88b73a9fb404d7c45bc80f22fcf683b3ed
-Author: kb8njit <kb8@njit.edu>
-Date:   Tue Jul 7 19:33:21 2020 -0400
-
-    Feature: Created Cochran code and tested successfully
-
-commit 09d367589773b15d100c42ef1582d293a2a3a4fb
-Merge: fadf261 69a748a
-Author: kb8njit <65985355+kb8njit@users.noreply.github.com>
-Date:   Tue Jul 7 18:44:55 2020 -0400
-
-    Merge pull request #21 from kb8njit/Statistics_Testing
-    
-    Statistics testing - update to Development branch
-
-commit 69a748a8fc7d52e56b67be6020f9fa73b82018e8
-Author: Monica <mjn28@njit.edu>
-Date:   Tue Jul 7 15:54:03 2020 -0400
-
-    Task: Updated Task List
-
-commit 16e0f7dfc3e2ff394be49e4960f179d25393088d
-Author: Monica <mjn28@njit.edu>
-Date:   Tue Jul 7 15:51:39 2020 -0400
-
-    Feature: Successfully Tested Z-Score method
-
-commit 4e443d2483de171d39af03f5ca9f08536cd040f1
-Author: Monica <mjn28@njit.edu>
-Date:   Tue Jul 7 15:31:22 2020 -0400
-
-    Feature: Successfully Tested Standard Deviation method
-
-commit acd3760b493f280489de1c112e706b1010d42042
-Author: Monica <mjn28@njit.edu>
-Date:   Tue Jul 7 15:08:36 2020 -0400
-
-    Feature: Successfully Tested Variance method
-
-commit 2a077432af27df071871e80587555b670f7b03d5
-Author: Monica <mjn28@njit.edu>
-Date:   Tue Jul 7 13:32:22 2020 -0400
-
-    Feature: Successfully Tested Mode method
-
-commit 3332d3e8f7ab9ef04ef241e6975618f62a71c389
-Author: Monica <mjn28@njit.edu>
-Date:   Tue Jul 7 00:17:03 2020 -0400
-
-    Feature: Successfully Tested Median method
-
-commit 4c1609da44f948c4ce530052ebebd968d9c6a774
-Author: Monica <mjn28@njit.edu>
-Date:   Mon Jul 6 23:13:03 2020 -0400
-
-    Feature: Successfully Tested Mean method
-
-commit fadf2618ecf4e5468a6e00c1b804227c5479ae40
-Merge: 6c275d2 1b2fbb9
-Author: kb8njit <65985355+kb8njit@users.noreply.github.com>
-Date:   Mon Jul 6 21:29:07 2020 -0400
-
-    Merge pull request #20 from kb8njit/StatFunctions
-    
-    Feature: Added stat functions
-
-commit 1b2fbb94748d067e98cc4a069801addf058548e0
-Author: kb8njit <kb8@njit.edu>
-Date:   Mon Jul 6 21:27:47 2020 -0400
-
-    Feature: Added stat functions
-
-commit 6c275d293266910b87938919c7a78d99954aee52
-Merge: f7e2f82 8c6e0af
-Author: kb8njit <65985355+kb8njit@users.noreply.github.com>
-Date:   Mon Jul 6 20:55:15 2020 -0400
-
-    Merge pull request #17 from kb8njit/RandomGenerator
-    
-    Random generator update to Development branch
-
-commit 8c6e0af100628a8a1d9a1b381933f867b10da646
-Author: Monica <mjn28@njit.edu>
-Date:   Mon Jul 6 20:48:27 2020 -0400
-
-    Task: Updated Task List
-
-commit 911c90b0a7e771810fe79c2159b59ed2506f7112
-Author: Monica <mjn28@njit.edu>
-Date:   Mon Jul 6 20:46:36 2020 -0400
-
-    Task: Created and added .csv files for Statistics Testing
-
-commit f7e2f82cc9594e970b4fb85bff07b71cadc54273
-Merge: a94ddc9 babf5a3
-Author: kb8njit <65985355+kb8njit@users.noreply.github.com>
-Date:   Mon Jul 6 19:25:11 2020 -0400
-
-    Merge pull request #15 from kb8njit/RandomGenerator
-    
-    Random generator update to Development branch
-
-commit babf5a3e6c1650edeb4c8e64fe6e915485ecba64
-Author: Monica <mjn28@njit.edu>
-Date:   Mon Jul 6 19:09:22 2020 -0400
-
-    Task: Updated Task List
-
-commit dd1e2cdd8e03982674843b388295a41aa56759f2
-Author: Monica <mjn28@njit.edu>
-Date:   Mon Jul 6 19:05:52 2020 -0400
-
-    Feature: Successfully tested SetSeed_RandomSelect
-
-commit 8b4efe4f50244510cba56dfebf822967fec6a63e
-Author: Monica <mjn28@njit.edu>
-Date:   Mon Jul 6 18:14:03 2020 -0400
-
-    Feature: Created SetSeed_RandomSelect static method
-
-commit 4291047a8ca4c3ef006c9860670e91a45688b5c0
-Author: Monica <mjn28@njit.edu>
-Date:   Mon Jul 6 18:10:54 2020 -0400
-
-    Feature: Successfully tested Select_RandomItem
-
-commit a94ddc9b094416d28e88ca9bddf3e0f9b06bd5ed
-Author: kb8njit <kb8@njit.edu>
-Date:   Mon Jul 6 17:45:54 2020 -0400
-
-    Feature: Added code to StandardDev.py
-
-commit 84fab4f73435b8864f7df8f3893b3ba31e7a56ee
-Author: Monica <mjn28@njit.edu>
-Date:   Mon Jul 6 17:45:16 2020 -0400
-
-    Feature: Created Select_RandomItem static method
-
-commit db77c92732eb99c4726a17bfcf38dd8f9749ca99
-Author: Monica <mjn28@njit.edu>
-Date:   Mon Jul 6 17:26:00 2020 -0400
-
-    Feature: Successfully tested ListItems_WithSeed
-
-commit 9291a25f13e76b1db2d08a5ec4bd8f616dbd9904
-Author: Monica <mjn28@njit.edu>
-Date:   Mon Jul 6 17:22:28 2020 -0400
-
-    Feature: Created ListItems_WithSeed static methods
-
-commit 38e3da255d0638bc4007d2172eed464692df49a3
-Author: Monica <mjn28@njit.edu>
-Date:   Mon Jul 6 17:20:40 2020 -0400
-
-    Feature: Successfully tested ListItems_NoSeed
-
-commit 469c54e73e29b09bd54b1ec4b7c2a930cdcd55f0
-Author: Monica <mjn28@njit.edu>
-Date:   Mon Jul 6 16:56:35 2020 -0400
-
-    Feature: Created ListItems_NoSeed static methods
-
-commit 2f647be81c3fd4b801bf5f7bd2442917632e3639
-Author: Monica <mjn28@njit.edu>
-Date:   Mon Jul 6 16:53:32 2020 -0400
-
-    Feature: Successfully tested GenNum_WithSeed static methods
-
-commit 73f77844b430ad35e9d106910d88d468197aa40b
-Author: Monica <mjn28@njit.edu>
-Date:   Mon Jul 6 16:48:06 2020 -0400
-
-    Feature: Created GenNum_WithSeed static methods
-
-commit 3f2d0c59874248be6a501d9184c67d8d366204af
-Author: Monica <mjn28@njit.edu>
-Date:   Mon Jul 6 16:44:48 2020 -0400
-
-    Feature: Successfully tested GenNum_NoSeed
-
-commit 6963a5a2273e32bd8104473040c4e7b5e0e9265b
-Author: Monica <mjn28@njit.edu>
-Date:   Mon Jul 6 16:28:01 2020 -0400
-
-    Feature: Created GenNum_NoSeed static methods
-
-commit c1fa5f77f535a18083f1c3593a4e48300bdb2cbc
-Author: kb8njit <kb8@njit.edu>
-Date:   Mon Jul 6 15:56:01 2020 -0400
-
-    Feature: Added code to Mean.py and Variance.py
-
-commit f8e923b4bd8e9f2673a6c6f8d54baf293f042a38
-Author: kb8njit <kb8@njit.edu>
-Date:   Mon Jul 6 15:32:22 2020 -0400
-
-    Fix: Refactored the Data folders
-
-commit 059dc406299c0312d0ea94e4a436a2a7e0fc66cc
-Merge: a2cd703 8d32187
-Author: kb8njit <65985355+kb8njit@users.noreply.github.com>
-Date:   Mon Jul 6 15:08:33 2020 -0400
-
-    Merge pull request #13 from kb8njit/PopSample_CodeUdpates
-    
-    Pop sample code updates
-
-commit a2cd70341cd8cd7a92cb3ff3d61a24e9803a0ba4
-Merge: 94f38d3 d47daaa
-Author: Monica <mjn28@njit.edu>
-Date:   Mon Jul 6 15:05:55 2020 -0400
-
-    Merge remote-tracking branch 'origin/Development' into Development
-
-commit 94f38d3c22f5a0cf5f1ebe198ef2701292023248
-Author: Monica <mjn28@njit.edu>
-Date:   Mon Jul 6 15:05:18 2020 -0400
-
-    Feature: Added GenList_WithSeed and tested successfully
-
-commit 8d32187a1e3779f7309c493703d87b3e6a8d0147
-Author: kb8njit <kb8@njit.edu>
-Date:   Mon Jul 6 14:52:53 2020 -0400
-
-    Task: Updated files to be more descriptive
-
-commit 351aab0d2634c989ed355224401615e88dccb509
-Author: kb8njit <kb8@njit.edu>
-Date:   Mon Jul 6 14:38:34 2020 -0400
-
-    Task:  Added imports to PopSample files
-
-commit d47daaa34938c5595b68dd1421991f51df7a0ba6
-Author: kb8njit <kb8@njit.edu>
-Date:   Mon Jul 6 14:20:49 2020 -0400
-
-    Fix: Removed 2 reference files and reformatted CochransFormula.md
-
-commit 7d40650faef8118ae988442c8293caf8367130c8
-Author: kb8njit <kb8@njit.edu>
-Date:   Mon Jul 6 13:41:12 2020 -0400
-
-    Fix:  Fixed formatting of CochransFormula.md
-
-commit 863f5415013076d9ae74d2e7eeb15420fa6b87df
-Merge: de2f4a0 d129076
-Author: kb8njit <kb8@njit.edu>
-Date:   Mon Jul 6 13:38:48 2020 -0400
-
-    Merge remote-tracking branch 'origin/Development' into Development
-
-commit de2f4a00bc65e89031199c1c4dd592ff324723a0
-Author: kb8njit <kb8@njit.edu>
-Date:   Mon Jul 6 13:38:24 2020 -0400
-
-    Feature:  Added data to ConfidenceInterval.md and updated formatting of references
-
-commit d1290769cada8925779a6420d1457ee5e08ee36a
-Merge: 037d9d3 f908108
-Author: Monica <mjn28@njit.edu>
-Date:   Mon Jul 6 12:27:20 2020 -0400
-
-    Merge remote-tracking branch 'origin/Development' into Development
-
-commit 037d9d3429b9514286e912885c79f58a38bd04ee
-Author: Monica <mjn28@njit.edu>
-Date:   Mon Jul 6 12:26:27 2020 -0400
-
-    Task: Updated Task List
-
-commit f9081087de242b840e02f178ca685adce489a93c
-Author: kb8njit <kb8@njit.edu>
-Date:   Mon Jul 6 12:16:43 2020 -0400
-
-    Feature:  Added data to CochransFormula.md
-
-commit ce70aace87f2fcd73c0641588b78b36dd4f1b625
-Author: kb8njit <kb8@njit.edu>
-Date:   Mon Jul 6 11:54:00 2020 -0400
-
-    Fix:  Fixed format of Variance.md
-
-commit d51598c8777e53a1e7065ad1c75433ecee28891d
-Author: kb8njit <kb8@njit.edu>
-Date:   Mon Jul 6 11:52:50 2020 -0400
-
-    Feature:  Added data to Variance.md
-
-commit 5e273fae8cfe7279ea5ba168ff85aa053351ca7d
-Author: kb8njit <kb8@njit.edu>
-Date:   Mon Jul 6 11:16:28 2020 -0400
-
-    Feature:  Added data to Mode.md
-
-commit c2f3a9e4a82520d238a6ebecf8d443df6048d20c
-Author: kb8njit <kb8@njit.edu>
-Date:   Mon Jul 6 11:11:36 2020 -0400
-
-    Feature:  Added data to Median.md
-
-commit 4abd2be06c7621e73a378747d1fb1607147b9ec1
-Author: kb8njit <kb8@njit.edu>
-Date:   Mon Jul 6 11:02:26 2020 -0400
-
-    Fix:  Updated StandardDeviation.md
-
-commit b136f0b290990e8e2f530383e0f4767b7aca1394
-Author: kb8njit <kb8@njit.edu>
-Date:   Mon Jul 6 11:00:35 2020 -0400
-
-    Feature:  Included data in StandardDeviation.md
-
-commit 3ffe7d44c1a3223d9b1eeec80f7ad41263086b82
-Author: kb8njit <kb8@njit.edu>
-Date:   Mon Jul 6 10:28:04 2020 -0400
-
-    Fix: Reformatted some reference files
-
-commit 63f2dea67439b419666fe110b38bfcfcd627cb6a
-Author: kb8njit <kb8@njit.edu>
-Date:   Mon Jul 6 10:25:53 2020 -0400
-
-    Feature: Updated Mean Reference.md file
-
-commit a2e4fc9739ad43ecc519bb1c6012fb4b0812b1ec
-Author: kb8njit <kb8@njit.edu>
-Date:   Mon Jul 6 10:11:57 2020 -0400
-
-    Fix: Updated Z-Score reference page
-
-commit c519bed6a8dbada4449d7b0e6978fb73658bc384
-Author: kb8njit <kb8@njit.edu>
-Date:   Mon Jul 6 10:09:03 2020 -0400
-
-    Feature:  Created References directory for stat function descriptions
-
-commit 4b554b5a171bbd7288db72cfca1f6e4021f983ce
-Author: kb8njit <kb8@njit.edu>
-Date:   Sun Jul 5 17:17:14 2020 -0400
-
-    Fix: Removed mean coding/test
-
-commit fa883a64cef353c41bb4632bb1e379a22bf094ed
-Author: kb8njit <kb8@njit.edu>
-Date:   Sun Jul 5 17:12:50 2020 -0400
-
-    Task: Attempted to add code for Mean and create test
-
-commit 048604da93553eaf383237dcf1721597d3ac5c08
-Author: kb8njit <kb8@njit.edu>
-Date:   Sun Jul 5 15:15:23 2020 -0400
-
-    Task: Added test_StatTests.py for statistic tests
-
-commit 7de7bc7e009dbc84d30e32838e42323de9259bd0
-Author: kb8njit <kb8@njit.edu>
-Date:   Sun Jul 5 15:08:41 2020 -0400
-
-    Task: Added PopSampling directory and python files
-
-commit ad294be564ea8498ae3f86bd1acb6f7dcb6d5e0d
-Author: kb8njit <kb8@njit.edu>
-Date:   Sun Jul 5 15:01:05 2020 -0400
-
-    Task: Added Random generator files
-
-commit 52dece77f392c05ab238ed970ebd3a77ab328e13
-Author: kb8njit <kb8@njit.edu>
-Date:   Sun Jul 5 14:44:16 2020 -0400
-
-    Task: Created RandomGenerator directory
-
-commit 7511c3f57f496f6711c309b069fe72676de016ef
-Author: kb8njit <kb8@njit.edu>
-Date:   Sun Jul 5 14:30:17 2020 -0400
-
-    Fix: Updated code in CSVReader.py
-
-commit 299906007234e18c636bba6ae8bf8370a4c7d078
-Author: Monica <mjn28@njit.edu>
-Date:   Sun Jul 5 14:08:57 2020 -0400
-
-    Tasks: Travis Fixes
-
-commit 8c26f6359cabd2d05edefab64aff078459af2562
-Author: Monica <mjn28@njit.edu>
-Date:   Sun Jul 5 13:52:41 2020 -0400
-
-    Task: Updated Task List
-
-commit ce0963a55fd471e2aafe949e860e4f4e1bd5a749
-Author: Monica <mjn28@njit.edu>
-Date:   Sun Jul 5 13:46:40 2020 -0400
-
-    Feature: Created test_CalculatorTest.py and ran tests successfully
-
-commit 602d899f0ce905709773ef41181cc089d319d781
-Author: kb8njit <kb8@njit.edu>
-Date:   Fri Jul 3 15:00:10 2020 -0400
-
-    Fix:  Fixed code in CSVReader.py
-
-commit 76f35fe66bfef95b2de009f777d73be5383b2eef
-Author: kb8njit <kb8@njit.edu>
-Date:   Fri Jul 3 14:54:48 2020 -0400
-
-    Task: Created FileUtilities and updated CSVReader with Absolute_Path.py
-
-commit 299b2d1de6c1f6d7a79f9dfb7b310a7e4669f1a4
-Author: kb8njit <kb8@njit.edu>
-Date:   Fri Jul 3 14:46:18 2020 -0400
-
-    Task: Created Calculator.py and imported functions.  Created Calculator Class
-
-commit a51d2af47352098545d08d05a32f851af807babb
-Author: kb8njit <kb8@njit.edu>
-Date:   Fri Jul 3 14:39:37 2020 -0400
-
-    Fix: Reformatted Calc functions
-
-commit 5f4ebe8edb4b3d8f70017ecdb7ee4b079022d418
-Author: kb8njit <kb8@njit.edu>
-Date:   Fri Jul 3 14:21:39 2020 -0400
-
-    Task: Created Data directory in Tests directory and included csv files
-
-commit 0c29eedff5d65ed237644c1c3829236843c24897
-Merge: bf38614 8f86f8d
-Author: kb8njit <65985355+kb8njit@users.noreply.github.com>
-Date:   Fri Jul 3 14:12:43 2020 -0400
-
-    Merge pull request #9 from kb8njit/master
-    
-    Merging Master to Development branch
-
-commit 8f86f8d4ad0d26fe836cab617fa837b46089810a
-Merge: fbdda53 e6c83c3
-Author: kb8njit <65985355+kb8njit@users.noreply.github.com>
-Date:   Fri Jul 3 14:10:39 2020 -0400
-
-    Merge pull request #8 from mjn28/Development
-    
-    Development Branch - Added Static classes to Calculator module
-
-commit e6c83c372f981bfa80db59701508dbc5dded747e
-Author: Monica <mjn28@njit.edu>
-Date:   Thu Jul 2 17:48:51 2020 -0400
-
-    Feature: Added squared root static method to Calculator module
-
-commit 23168547a34842affc81a5c1b764cb6e4f6cdb35
-Author: Monica <mjn28@njit.edu>
-Date:   Thu Jul 2 17:47:22 2020 -0400
-
-    Feature: Added squared static method to Calculator module
-
-commit c8890c7904538ac85e78d4946725f0823f0cbc75
-Author: Monica <mjn28@njit.edu>
-Date:   Thu Jul 2 17:45:58 2020 -0400
-
-    Feature: Added division static method to Calculator module
-
-commit dbf28c84ac7259ed30891784c70064bc1adf644f
-Author: Monica <mjn28@njit.edu>
-Date:   Thu Jul 2 17:44:25 2020 -0400
-
-    Feature: Added multiplication static method to Calculator module
-
-commit 2d67625d8beff5e883edf3dd6283f56995874297
-Author: Monica <mjn28@njit.edu>
-Date:   Thu Jul 2 17:42:54 2020 -0400
-
-    Feature: Added subtraction static method to Calculator module
-
-commit a1d64969d99fdd37e173721add55fe6800217ba9
-Author: Monica <mjn28@njit.edu>
-Date:   Thu Jul 2 17:41:31 2020 -0400
-
-    Feature: Added addition static method to Calculator module
-
-commit 307c62db363c3a0d360171da6ba62da1fba01cb7
-Author: Monica <mjn28@njit.edu>
-Date:   Thu Jul 2 17:22:16 2020 -0400
-
-    Task: Added Task List to README.md file
-
-commit 9cd3662ede3c53a04a12f4589eeac3b4d6d17106
-Author: Monica <mjn28@njit.edu>
-Date:   Thu Jul 2 17:07:21 2020 -0400
-
-    Task: Formatted README.md file
-
-commit fbdda533df8a3c9d08a439469416d872788533a1
-Merge: 88aa270 bf38614
-Author: kb8njit <65985355+kb8njit@users.noreply.github.com>
-Date:   Thu Jul 2 12:07:32 2020 -0400
-
-    Merge pull request #7 from kb8njit/Development
-    
-    Task: Added stat function files
-
-commit bf386142597de2ee3733dce109b14d70bf321b30
-Author: kb8njit <kb8@njit.edu>
-Date:   Thu Jul 2 12:06:24 2020 -0400
-
-    Task: Added stat function files
-
-commit 88aa2701c866db67c4e4f354b1245ab8ff5a974a
-Merge: 67da2a7 afb74e4
-Author: kb8njit <65985355+kb8njit@users.noreply.github.com>
-Date:   Thu Jul 2 12:02:26 2020 -0400
-
-    Merge pull request #6 from kb8njit/Development
-    
-    Feature:  Added Travis image to Readme
-
-commit afb74e4e995913a6d82aa43c07b4c720fe8cdbc2
-Merge: 9e0f4e7 908b3c6
-Author: kb8njit <65985355+kb8njit@users.noreply.github.com>
-Date:   Thu Jul 2 12:00:50 2020 -0400
-
-    Merge pull request #5 from kb8njit/mjn28-Feature-Added-Travis-Build-Image
-    
-    Feature: Added Travis Build Image
-
-commit 67da2a7a3817217ca5f1f57eef5b035857ea223b
-Merge: a8f2521 9e0f4e7
-Author: kb8njit <65985355+kb8njit@users.noreply.github.com>
-Date:   Thu Jul 2 11:57:50 2020 -0400
-
-    Merge pull request #3 from kb8njit/Development
-    
-    Initial setup of project skeleton and required files
-
-commit 908b3c630aaf6420ff6031d1d393d74b43ac61d8
-Author: Monica Nelson <66029259+mjn28@users.noreply.github.com>
-Date:   Thu Jul 2 11:57:06 2020 -0400
-
-    Feature: Added Travis Build Image
-
-commit 9e0f4e77b778bd73af938241e89234f6de5b09cd
-Merge: 6225be2 a057902
-Author: kb8njit <65985355+kb8njit@users.noreply.github.com>
-Date:   Thu Jul 2 11:55:54 2020 -0400
-
-    Merge pull request #2 from kb8njit/mjn28-Task-Updated-README
-    
-    Task: Added Project Plan to the README.md
-
-commit a0579020adbaac30d5da4da7459c1b8785dd0d24
-Author: Monica Nelson <66029259+mjn28@users.noreply.github.com>
-Date:   Thu Jul 2 11:53:44 2020 -0400
-
-    Task: Added Project Plan to the README.md
-
-commit 6225be262c5bddb1b024968765b56d7dd3b9c039
-Merge: f56cd3f a8f2521
-Author: kb8njit <65985355+kb8njit@users.noreply.github.com>
-Date:   Thu Jul 2 11:51:07 2020 -0400
-
-    Merge pull request #1 from kb8njit/master
-    
-    Task: Began project skeleton
-
-commit a8f25210543bfbbaa245d5619dd13416ba28d3fe
-Author: kb8njit <kb8@njit.edu>
-Date:   Thu Jul 2 11:42:34 2020 -0400
-
-    Task: Began project skeleton
-
-commit f56cd3f8948a4f1747c17f745353d6225e6233db
-Author: kb8njit <65985355+kb8njit@users.noreply.github.com>
-Date:   Thu Jul 2 11:34:56 2020 -0400
-
-    Create .gitignore
-
-commit 52aa677670c14d8a227476be30ee84eb468aef1d
-Author: kb8njit <65985355+kb8njit@users.noreply.github.com>
-Date:   Thu Jul 2 11:34:31 2020 -0400
-
-    Initial commit
-
-
-
+c6aa7e8,Task: Added Changelog,Wed Jul 8 13:22:46 2020 -0400,Monica
+648fb20,Merge remote-tracking branch 'origin/Development' into Development,Wed Jul 8 13:17:45 2020 -0400,Monica
+becbe58,Task: Added Changelog,Wed Jul 8 13:17:23 2020 -0400,Monica
+3393e95,Update README.md,Wed Jul 8 13:02:20 2020 -0400,Monica Nelson
+3a0018b,Task: Reorganized and Updated README.md,Wed Jul 8 13:00:30 2020 -0400,Monica
+5423011,Task: Formatted Task List,Wed Jul 8 12:07:51 2020 -0400,Monica Nelson
+dcc1f01,Task: Updated Formatting on Task List,Wed Jul 8 12:06:41 2020 -0400,Monica Nelson
+8ab9e69,Feature: Added Task List,Wed Jul 8 12:05:49 2020 -0400,Monica Nelson
+efe99c7,Task: Rename File,Wed Jul 8 12:05:17 2020 -0400,Monica Nelson
+f2d86a5,Task: Update README,Wed Jul 8 12:04:11 2020 -0400,Monica Nelson
+25b11a5,Task: Update README,Wed Jul 8 12:03:32 2020 -0400,Monica Nelson
+82daa58,Task: Create Task List.md,Wed Jul 8 12:02:42 2020 -0400,Monica Nelson
+b2131f8,Task: Create Project Plan.md,Wed Jul 8 12:01:46 2020 -0400,Monica Nelson
+875a03e,Merge pull request #23 from kb8njit/mjn28-Task-Update-Task-List,Wed Jul 8 11:58:38 2020 -0400,Monica Nelson
+c79be22,Task: Updated Task List,Wed Jul 8 11:58:27 2020 -0400,Monica Nelson
+7d0d5d9,Fix:  Fixed Margin coding and tested successfully,Tue Jul 7 23:43:04 2020 -0400,kb8njit
+fb1a6ab,Merge pull request #22 from kb8njit/popsampling_new,Tue Jul 7 23:31:53 2020 -0400,kb8njit
+2a83725,Update test_PopSampling.py,Tue Jul 7 23:29:54 2020 -0400,kb8njit
+ba7d7de,Tasks and Features: Added code and testing to PopSampling module,Tue Jul 7 23:21:30 2020 -0400,kb8njit
+8815d06,Task: Creating FindSampleSize code and test, tests now failing,Tue Jul 7 20:03:03 2020 -0400,kb8njit
+6ce626a,Task: Creating FindSampleSize code and test,Tue Jul 7 19:42:57 2020 -0400,kb8njit
+fb505d8,Feature: Created Cochran code and tested successfully,Tue Jul 7 19:33:21 2020 -0400,kb8njit
+09d3675,Merge pull request #21 from kb8njit/Statistics_Testing,Tue Jul 7 18:44:55 2020 -0400,kb8njit
+69a748a,Task: Updated Task List,Tue Jul 7 15:54:03 2020 -0400,Monica
+16e0f7d,Feature: Successfully Tested Z-Score method,Tue Jul 7 15:51:39 2020 -0400,Monica
+4e443d2,Feature: Successfully Tested Standard Deviation method,Tue Jul 7 15:31:22 2020 -0400,Monica
+acd3760,Feature: Successfully Tested Variance method,Tue Jul 7 15:08:36 2020 -0400,Monica
+2a07743,Feature: Successfully Tested Mode method,Tue Jul 7 13:32:22 2020 -0400,Monica
+3332d3e,Feature: Successfully Tested Median method,Tue Jul 7 00:17:03 2020 -0400,Monica
+4c1609d,Feature: Successfully Tested Mean method,Mon Jul 6 23:13:03 2020 -0400,Monica
+fadf261,Merge pull request #20 from kb8njit/StatFunctions,Mon Jul 6 21:29:07 2020 -0400,kb8njit
+1b2fbb9,Feature: Added stat functions,Mon Jul 6 21:27:47 2020 -0400,kb8njit
+6c275d2,Merge pull request #17 from kb8njit/RandomGenerator,Mon Jul 6 20:55:15 2020 -0400,kb8njit
+8c6e0af,Task: Updated Task List,Mon Jul 6 20:48:27 2020 -0400,Monica
+911c90b,Task: Created and added .csv files for Statistics Testing,Mon Jul 6 20:46:36 2020 -0400,Monica
+f7e2f82,Merge pull request #15 from kb8njit/RandomGenerator,Mon Jul 6 19:25:11 2020 -0400,kb8njit
+babf5a3,Task: Updated Task List,Mon Jul 6 19:09:22 2020 -0400,Monica
+dd1e2cd,Feature: Successfully tested SetSeed_RandomSelect,Mon Jul 6 19:05:52 2020 -0400,Monica
+8b4efe4,Feature: Created SetSeed_RandomSelect static method,Mon Jul 6 18:14:03 2020 -0400,Monica
+4291047,Feature: Successfully tested Select_RandomItem,Mon Jul 6 18:10:54 2020 -0400,Monica
+a94ddc9,Feature: Added code to StandardDev.py,Mon Jul 6 17:45:54 2020 -0400,kb8njit
+84fab4f,Feature: Created Select_RandomItem static method,Mon Jul 6 17:45:16 2020 -0400,Monica
+db77c92,Feature: Successfully tested ListItems_WithSeed,Mon Jul 6 17:26:00 2020 -0400,Monica
+9291a25,Feature: Created ListItems_WithSeed static methods,Mon Jul 6 17:22:28 2020 -0400,Monica
+38e3da2,Feature: Successfully tested ListItems_NoSeed,Mon Jul 6 17:20:40 2020 -0400,Monica
+469c54e,Feature: Created ListItems_NoSeed static methods,Mon Jul 6 16:56:35 2020 -0400,Monica
+2f647be,Feature: Successfully tested GenNum_WithSeed static methods,Mon Jul 6 16:53:32 2020 -0400,Monica
+73f7784,Feature: Created GenNum_WithSeed static methods,Mon Jul 6 16:48:06 2020 -0400,Monica
+3f2d0c5,Feature: Successfully tested GenNum_NoSeed,Mon Jul 6 16:44:48 2020 -0400,Monica
+6963a5a,Feature: Created GenNum_NoSeed static methods,Mon Jul 6 16:28:01 2020 -0400,Monica
+c1fa5f7,Feature: Added code to Mean.py and Variance.py,Mon Jul 6 15:56:01 2020 -0400,kb8njit
+f8e923b,Fix: Refactored the Data folders,Mon Jul 6 15:32:22 2020 -0400,kb8njit
+059dc40,Merge pull request #13 from kb8njit/PopSample_CodeUdpates,Mon Jul 6 15:08:33 2020 -0400,kb8njit
+a2cd703,Merge remote-tracking branch 'origin/Development' into Development,Mon Jul 6 15:05:55 2020 -0400,Monica
+94f38d3,Feature: Added GenList_WithSeed and tested successfully,Mon Jul 6 15:05:18 2020 -0400,Monica
+8d32187,Task: Updated files to be more descriptive,Mon Jul 6 14:52:53 2020 -0400,kb8njit
+351aab0,Task:  Added imports to PopSample files,Mon Jul 6 14:38:34 2020 -0400,kb8njit
+d47daaa,Fix: Removed 2 reference files and reformatted CochransFormula.md,Mon Jul 6 14:20:49 2020 -0400,kb8njit
+7d40650,Fix:  Fixed formatting of CochransFormula.md,Mon Jul 6 13:41:12 2020 -0400,kb8njit
+863f541,Merge remote-tracking branch 'origin/Development' into Development,Mon Jul 6 13:38:48 2020 -0400,kb8njit
+de2f4a0,Feature:  Added data to ConfidenceInterval.md and updated formatting of references,Mon Jul 6 13:38:24 2020 -0400,kb8njit
+d129076,Merge remote-tracking branch 'origin/Development' into Development,Mon Jul 6 12:27:20 2020 -0400,Monica
+037d9d3,Task: Updated Task List,Mon Jul 6 12:26:27 2020 -0400,Monica
+f908108,Feature:  Added data to CochransFormula.md,Mon Jul 6 12:16:43 2020 -0400,kb8njit
+ce70aac,Fix:  Fixed format of Variance.md,Mon Jul 6 11:54:00 2020 -0400,kb8njit
+d51598c,Feature:  Added data to Variance.md,Mon Jul 6 11:52:50 2020 -0400,kb8njit
+5e273fa,Feature:  Added data to Mode.md,Mon Jul 6 11:16:28 2020 -0400,kb8njit
+c2f3a9e,Feature:  Added data to Median.md,Mon Jul 6 11:11:36 2020 -0400,kb8njit
+4abd2be,Fix:  Updated StandardDeviation.md,Mon Jul 6 11:02:26 2020 -0400,kb8njit
+b136f0b,Feature:  Included data in StandardDeviation.md,Mon Jul 6 11:00:35 2020 -0400,kb8njit
+3ffe7d4,Fix: Reformatted some reference files,Mon Jul 6 10:28:04 2020 -0400,kb8njit
+63f2dea,Feature: Updated Mean Reference.md file,Mon Jul 6 10:25:53 2020 -0400,kb8njit
+a2e4fc9,Fix: Updated Z-Score reference page,Mon Jul 6 10:11:57 2020 -0400,kb8njit
+c519bed,Feature:  Created References directory for stat function descriptions,Mon Jul 6 10:09:03 2020 -0400,kb8njit
+4b554b5,Fix: Removed mean coding/test,Sun Jul 5 17:17:14 2020 -0400,kb8njit
+fa883a6,Task: Attempted to add code for Mean and create test,Sun Jul 5 17:12:50 2020 -0400,kb8njit
+048604d,Task: Added test_StatTests.py for statistic tests,Sun Jul 5 15:15:23 2020 -0400,kb8njit
+7de7bc7,Task: Added PopSampling directory and python files,Sun Jul 5 15:08:41 2020 -0400,kb8njit
+ad294be,Task: Added Random generator files,Sun Jul 5 15:01:05 2020 -0400,kb8njit
+52dece7,Task: Created RandomGenerator directory,Sun Jul 5 14:44:16 2020 -0400,kb8njit
+7511c3f,Fix: Updated code in CSVReader.py,Sun Jul 5 14:30:17 2020 -0400,kb8njit
+2999060,Tasks: Travis Fixes,Sun Jul 5 14:08:57 2020 -0400,Monica
+8c26f63,Task: Updated Task List,Sun Jul 5 13:52:41 2020 -0400,Monica
+ce0963a,Feature: Created test_CalculatorTest.py and ran tests successfully,Sun Jul 5 13:46:40 2020 -0400,Monica
+602d899,Fix:  Fixed code in CSVReader.py,Fri Jul 3 15:00:10 2020 -0400,kb8njit
+76f35fe,Task: Created FileUtilities and updated CSVReader with Absolute_Path.py,Fri Jul 3 14:54:48 2020 -0400,kb8njit
+299b2d1,Task: Created Calculator.py and imported functions.  Created Calculator Class,Fri Jul 3 14:46:18 2020 -0400,kb8njit
+a51d2af,Fix: Reformatted Calc functions,Fri Jul 3 14:39:37 2020 -0400,kb8njit
+5f4ebe8,Task: Created Data directory in Tests directory and included csv files,Fri Jul 3 14:21:39 2020 -0400,kb8njit
+0c29eed,Merge pull request #9 from kb8njit/master,Fri Jul 3 14:12:43 2020 -0400,kb8njit
+8f86f8d,Merge pull request #8 from mjn28/Development,Fri Jul 3 14:10:39 2020 -0400,kb8njit
+e6c83c3,Feature: Added squared root static method to Calculator module,Thu Jul 2 17:50:58 2020 -0400,Monica
+2316854,Feature: Added squared static method to Calculator module,Thu Jul 2 17:47:22 2020 -0400,Monica
+c8890c7,Feature: Added division static method to Calculator module,Thu Jul 2 17:45:58 2020 -0400,Monica
+dbf28c8,Feature: Added multiplication static method to Calculator module,Thu Jul 2 17:44:25 2020 -0400,Monica
+2d67625,Feature: Added subtraction static method to Calculator module,Thu Jul 2 17:42:54 2020 -0400,Monica
+a1d6496,Feature: Added addition static method to Calculator module,Thu Jul 2 17:41:31 2020 -0400,Monica
+307c62d,Task: Added Task List to README.md file,Thu Jul 2 17:22:16 2020 -0400,Monica
+9cd3662,Task: Formatted README.md file,Thu Jul 2 17:07:21 2020 -0400,Monica
+fbdda53,Merge pull request #7 from kb8njit/Development,Thu Jul 2 12:07:32 2020 -0400,kb8njit
+bf38614,Task: Added stat function files,Thu Jul 2 12:06:24 2020 -0400,kb8njit
+88aa270,Merge pull request #6 from kb8njit/Development,Thu Jul 2 12:02:26 2020 -0400,kb8njit
+afb74e4,Merge pull request #5 from kb8njit/mjn28-Feature-Added-Travis-Build-Image,Thu Jul 2 12:00:50 2020 -0400,kb8njit
+67da2a7,Merge pull request #3 from kb8njit/Development,Thu Jul 2 11:57:50 2020 -0400,kb8njit
+908b3c6,Feature: Added Travis Build Image,Thu Jul 2 11:57:06 2020 -0400,Monica Nelson
+9e0f4e7,Merge pull request #2 from kb8njit/mjn28-Task-Updated-README,Thu Jul 2 11:55:54 2020 -0400,kb8njit
+a057902,Task: Added Project Plan to the README.md,Thu Jul 2 11:53:44 2020 -0400,Monica Nelson
+6225be2,Merge pull request #1 from kb8njit/master,Thu Jul 2 11:51:07 2020 -0400,kb8njit
+a8f2521,Task: Began project skeleton,Thu Jul 2 11:42:34 2020 -0400,kb8njit
+f56cd3f,Create .gitignore,Thu Jul 2 11:34:56 2020 -0400,kb8njit
+52aa677,Initial commit,Thu Jul 2 11:34:31 2020 -0400,kb8njit
