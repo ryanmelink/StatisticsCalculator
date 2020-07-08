@@ -25,3 +25,5 @@ class PopSampling(Calculator):
     def conf_int(self, a, b, c, d, e):
         self.result = conf_int(a, b, c, d, e)
         return self.result
+
+    pass

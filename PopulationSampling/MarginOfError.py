@@ -20,7 +20,7 @@ def margin(a, b, c, d, e):
         sqr_n = round(squared_root(n), 2)
         value1 = stand_dev / sqr_n
         z = int(1.96)
-        result = value1 * z
+        result = round((value1 * z), 1)
         return result
 
     except ZeroDivisionError:
