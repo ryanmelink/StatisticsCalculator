@@ -5,7 +5,8 @@
 **Dispersement** tells you how much your data is spread out around the **mean** (Example - Are all of your test scores close to the average test score?).
 
 The *bell curve* is a tool commonly used to help understand standard deviation.
-https://www.statisticshowto.com/wp-content/uploads/2012/11/Standard_deviation_diagram.svg_.png
+
+![Bell Curve](https://www.statisticshowto.com/wp-content/uploads/2012/11/Standard_deviation_diagram.svg_.png)
 
 ### The Standard Deviation Formula
 
