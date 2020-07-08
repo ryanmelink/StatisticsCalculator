@@ -2,7 +2,6 @@ from Calculator.Calculator import Calculator
 from PopulationSampling.CochransFormula import cochran
 from PopulationSampling.FindSampleSize import find_sample_size
 
-
 class PopSampling(Calculator):
     data = []
 
