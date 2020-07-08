@@ -97,7 +97,6 @@
                     i. [Reference](StatReferences/ConfidenceInterval.md) 
             1. Find Sample Size  
                 1. Methods  
-                    i. 
             1. Margin of Error  
                 1. Methods  
                     i. [Reference](StatReferences/MarginOfError.md)   

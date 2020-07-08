@@ -4,9 +4,9 @@ The Cochran Formula allows you to calculate an ideal sample size given a *desire
 The *desired level of precision* is also known as the "Margin of Error".
 
 
-### The Cochran Formula
+### Cochran's Formula
 
-https://www.statisticshowto.com/wp-content/uploads/2018/01/cochran-1.jpeg
+![Cochran's Formula](https://www.statisticshowto.com/wp-content/uploads/2018/01/cochran-1.jpeg)
 
  * e = Margin of Error (the desired level of precision)
  * p = the estimated proportion of the population which has the attribute
@@ -48,3 +48,5 @@ A random sample of **384** households in your target population should be enough
 
 
 [Link to Statisticshowto.com](https://www.statisticshowto.com/probability-and-statistics/find-sample-size/#Cochran)
+
+[Back to Index](README.md)

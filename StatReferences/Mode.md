@@ -14,3 +14,4 @@ Find the **mode** in the below group of numbers.
 
 Mode = 44
 
+[Link to Statisticshowto.com](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/mean-median-mode/)

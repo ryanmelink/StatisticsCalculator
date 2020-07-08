@@ -13,8 +13,7 @@ The **Variance** is mathematically defined as the **average of the squared diffe
 3. Find the average of those differences
 
 ### The Sample Variance Formula
-
-https://www.statisticshowto.com/wp-content/uploads/2009/08/usual.png
+<img src=https://www.statisticshowto.com/wp-content/uploads/2009/08/usual.png width="150" height="50"> 
 
 ### Example Equation
 
@@ -70,3 +69,4 @@ Take the original data points and **square** them individually.
    * Division
    * Square
 
+[Link to Statisticshowto.com](https://www.statisticshowto.com/probability-and-statistics/descriptive-statistics/sample-variance/)
