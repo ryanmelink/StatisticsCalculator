@@ -9,11 +9,11 @@ https://www.statisticshowto.com/wp-content/uploads/2012/11/Standard_deviation_di
 
 ### The Standard Deviation Formula
 
-σ = sqrt[ Σ ( Xi – μ )2 / N ]
+    σ = sqrt[ Σ ( Xi – μ )2 / N ]
 
-σ = standard deviation
-μ = mean
-Xi = the individual x values
+    σ = standard deviation
+    μ = mean
+    Xi = the individual x values
 
 *( Xi – μ )2* states that for each X value, subtract the mean and square the result.
 

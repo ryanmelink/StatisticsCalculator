@@ -6,22 +6,22 @@ from random import uniform
 
 class GenListWithSeed:
     @staticmethod
-    def list_int (x, y, ranges, nut):
-        if isinstance(x, float):
-            return list_float(x, y, ranges, nut)
+    def list_int (a, b, ranges, nut):
+        if isinstance(a, float):
+            return list_float(a, b, ranges, nut)
         series = []
         seed(nut)
         for each in range(ranges):
-            number = randint(x, y)
+            number = randint(a, b)
             series.append(number)
         return series
 
     @staticmethod
-    def list_float (x, y, ranges, nut):
+    def list_float (a, b, ranges, nut):
         series = []
         seed (nut)
         for each in range (ranges):
-            number = uniform(x,y)
+            number = uniform(a,b)
             series.append(number)
         return series
 
