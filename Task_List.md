@@ -1,6 +1,6 @@
 ## Task List
 
-| **To Do | In Progress | Review | Done** |  
+| **To Do** | **In Progress** | **Review** | **Done** |  
 | --- | --- | --- | ---|  
 | Set up Skeleton project | Kelly | 7/2/2020 | 7/2/2020 |  
 | Make modules | Kelly | 7/2/2020 | 7/2/2020 |  
