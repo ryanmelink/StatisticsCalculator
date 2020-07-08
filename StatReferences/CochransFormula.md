@@ -4,9 +4,9 @@ The Cochran Formula allows you to calculate an ideal sample size given a *desire
 The *desired level of precision* is also known as the "Margin of Error".
 
 
-### The Cochran Formula
+### Cochran's Formula
 
-https://www.statisticshowto.com/wp-content/uploads/2018/01/cochran-1.jpeg
+![Cochran's Formula](https://www.statisticshowto.com/wp-content/uploads/2018/01/cochran-1.jpeg)
 
  * e = Margin of Error (the desired level of precision)
  * p = the estimated proportion of the population which has the attribute
