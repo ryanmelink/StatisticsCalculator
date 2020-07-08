@@ -76,5 +76,5 @@
                 i. Subtract one number from the mean then divide by the standard deviation  
 
 
-## [Task List](Task List.md)
+[Task List](Task List.md)
 ## Changelog
